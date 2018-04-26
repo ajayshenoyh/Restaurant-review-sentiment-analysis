@@ -1,0 +1,66 @@
+<p class="partial_entry">
+Tasty but by the end of the day not a lot of choice, feels like you only got to choose from the left overs
+</p><p class="partial_entry">
+Panda is very good asian fast food, not sure if asian people would consider it asian, but it is great! Remember to try the orange chicken!
+</p><p class="partial_entry">
+I have visited this Panda express more than a few times to give it the benefit of the doubt, but each time it's the same. Paying a lot of money for a minimum amount of food. The portions are small, and everything you ask for is at an additional cost. I've paid over ten dollars for a bowl, an egg...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr205811723 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_205811723'), 'review_205811723', '1', 4444);; window.location.hash = 'review_205811723'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_205811723'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+I've never had anything but delicious food from Panda Express. The surf & turf is great! The green bean chicken is so good! All good.
+</p><p class="partial_entry">
+It is a Chinese fast food resturant quick service, nice people, great orange chicken, nice soft noodles, everything you'd want in a take out, lots of seating also.
+</p><p class="partial_entry">
+I generally don’t rate “fast food” restaurants but I’m making an exception. The Panda Express in The Gateway Downtown Brea is one of the best I’ve ever been to. Walking into the dining area (yes, there is an open and welcoming dining area) you have an immediate view of the full array of food choices and the food prep going...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr349474770 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_349474770'), 'review_349474770', '1', 4444);; window.location.hash = 'review_349474770'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_349474770'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+I've been to this panda a few times and the food is pretty good. It's the workers here, one girl in particular that makes it my favorite of all locations. I wish I knew her name because she is great with customers and she really cares.
+</p><p class="partial_entry">
+Place is clean and updated. The food never disappoints when you are looking for greasy Chinese Food.
+</p><p class="partial_entry">
+Had the Honey Walnut Shrimp & the Orange Chicken with chow mein & mixed veggie. Had to wait till the veggies were cooked but that was fine by me. Everything was very good!
+</p><p class="partial_entry">
+Food was what you expect Panda to be...for non-Chinese folks. Came here because the Japanese friend wanted Orange Chicken. It was aight...instead of eating here, do yourself a favor and go to the 99 Ranch Market up the street (past the 5 freeway and Walmart), and go to the food court there and they have something real similar.
+</p><p class="partial_entry">
+Visited today with my family the restaurant is nice and clean.
+I felt the choice of dishes was very limited mostly all the mains were spicy, not really my thing.
+</p><p class="partial_entry">
+Panda Express, as the name implies is basically ready made Chinese food. Pick your choices & have it filled on the spot. No waiting. There always seem to be several options to choose from, and the food is made continually so as it gets low new food comes out piping hot! I tried a &quot;premium&quot; angus steak item which was...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr192811710 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_192811710'), 'review_192811710', '1', 4444);; window.location.hash = 'review_192811710'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_192811710'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+I always go to Panda Express for a chinese fastfood. Food is similar to chinese restaurant, but the cost is lower. Chow Mein is better than rice.
+</p><p class="partial_entry">
+The food was fine. I was expecting it to be the best Chinese that I have ever had. Was not the case. My expectations were too high. It was good, nothing special
+</p>

@@ -1,0 +1,7245 @@
+
+
+I had a good time in Poonja. 
+ It was a one night stay while I was on a business trip and I was provided with everything I need. 
+ Clean cozy room. 
+ delicious late night supper. 
+ good breakfast. 
+ no problems with wifi connection. 
+ The staff was helpful and polite. 
+ And the hotel itself is situated near the central railway station. 
+ not. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_438962146'). 
+ 'review_438962146'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_438962146'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_438962146'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Location: Centrally Located
+Parking: Enough Parking
+Staff: Nice
+Tariff: Okay. 
+ Bit expensive
+Amenities: Hot water. 
+ Free Wi-fi only in lobby. 
+ If you negotiate. 
+ you will get free breakfast for non-AC accomodation
+Food: Had only breakfast. 
+ Not very good. 
+
+
+
+
+The hotel is decent with very supportive staff. 
+ Service is fast. 
+ rooms are clean. 
+ excellent selection of food and goods value for money
+My friend had suggested me to stay here for couple of nights and I am thankful to him. 
+ Loved the stay
+
+
+
+Very nice place. 
+ it's been pleasure to stay there for a couple of nights. 
+ I was glad to come there after a busy day. 
+ The room is absolutely clean and very comfortable. 
+ the location is good and parking is included. 
+
+It was evident that the staff know their job very well. 
+
+
+
+
+We stayed at the Poonja Hotel in Executive Double Room with my friend last summer. 
+ Our room was very comfortable and clean. 
+ Most of all I liked the location of the hotel. 
+ it was right in the city near the Train station. 
+ Staff of the hotel is very polite and kind. 
+ Also I liked the restaurant. 
+ which offered a wide. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_433630949'). 
+ 'review_433630949'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_433630949'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_433630949'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It`s a very comfortable hotel. 
+ It`s situated in a very developed area. 
+ There's developed infrastructure around it. 
+ Rooms are convenient and cute. 
+ Excellent service and very friendly and courteous staff. 
+Great place to stay. 
+
+
+
+
+the hotel has a 24 hour check in. 
+check out policy which turned out to be very convenient for me as i was suppose to check in earlier in the evening . 
+ due to a delayed flight had to check in late in the night. 
+The hotel was more than happy to accomodate me without the hassel of being charged for 2. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_431553129'). 
+ 'review_431553129'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_431553129'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_431553129'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed in poonja international on 22nd Oct 2016. 
+ Hotel is easily accessible and is very near to bus stand and malls. 
+ Room was very neat and clean. 
+ Ambience in the lobby as well as rooms are excellent. 
+ Service was very good and the staff were polite and helpful. 
+ Complimentary breakfast is very good with tasty dishes. 
+ Bathrooms are neat. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_431392210'). 
+ 'review_431392210'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_431392210'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_431392210'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I had a good time staying at this hotel. 
+ At first. 
+ the prices are very good for the service provided in Poonja. 
+ Also. 
+ the location is easy to find and there is everything needed nearby - cafes. 
+ restaurants and some shops. 
+ The rooms are clean and comfortable. 
+ the staff is very friendly and ready to help. 
+ It was easy to. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_430987029'). 
+ 'review_430987029'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_430987029'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_430987029'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Great place to stay. 
+The hotel provided everything I needed. 
+wifi. 
+parking. 
+good breakfasts. 
+ Besides. 
+ the location is good I could get to the city center very fast. 
+ The place is easy to find. 
+ And the rooms are cosy and clean. 
+
+
+
+
+The hotel was booked for one person for one day. 
+ I called ahead before booking and confirmed that the hotel had 24. 
+7 check in. 
+out. 
+
+But. 
+ when I reached the reception I was told that the rooms are not ready and I had to wait for an hour. 
+
+I showed the number that I called and the same person was at. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_428062871'). 
+ 'review_428062871'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_428062871'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_428062871'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It use to be a class hotel few years ago. 
+ However over the period it remains same . 
+ everything is getting old. 
+ No upgradation happened. 
+ Even though staff is very friendly and courteous hotel doesn't fit to the category of value for money. 
+ Worst part is WiFi is available only in Lobby. 
+
+
+
+
+i arrived last week in the evening. 
+ i had confirmed the booking my paying the advance. 
+ the hotel was full. 
+ I drove so there is no signs as to show the hotel. 
+ and they do have pvt parking in the hotel. 
+ check in was fast. 
+ rooms were ok. 
+ for the amount i was paying for a delux i expected better. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_427350689'). 
+ 'review_427350689'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_427350689'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_427350689'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed in this hotel for a couple of nights and it was pleasant. 
+ The room was rather spacious. 
+ a big bed with a convenient mattress and the choice of pillows. 
+ Linen of fine quality. 
+ the bathing room had all necessary for comfortable stay. 
+ daily cleaning. 
+ The staff was attentive. 
+
+
+
+
+I've been staying in this hotel for 3 days. 
+ It is located near the city center with a lot of malls and you can easily reach the railway station. 
+ I had a single room. 
+ It was clean with a very comfortable bed. 
+ The dinner in the restaurant was good. 
+ The nice staff made my stay very pleasant. 
+
+
+
+
+My family had been planning the trip for a long time and the quality of hotel service was very important for us. 
+ Finally. 
+ we chose Poonja International hotel. 
+ It was a really proper choice. 
+ as its stuff is highly-qualified. 
+ Every time when I needed something. 
+ somebody came to help me and solve my problems with smile and patience. 
+ Before the. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_426430600'). 
+ 'review_426430600'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_426430600'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_426430600'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Hotel is centrally located. 
+ Mall. 
+ hotels nearby. 
+ Rooms are good. 
+ Courteous service both front and room. 
+ Good lobby. 
+ Wifi only in lobby. 
+ Food was good. 
+ Janata delux hotel famous for neer dosa is 2furlongs away and so is ideal icecream center known for icecream. 
+ City center mall is very close. 
+ You can enjoy your stay. 
+
+
+
+
+Stayed in Poonja International 2 weeks ago and have completely nothing to complain about. 
+ The stuff was so nice and polite. 
+ every time I needed something they were always very patient and kind with me. 
+ as I several times asked for extra shower gel and shampoo. 
+ The location is great. 
+ very convenient. 
+ Rooms are nice and even better then i. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_418751606'). 
+ 'review_418751606'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_418751606'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_418751606'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Before my vacation I read a lot of reviews and looked though a lot of photos of hotels and finally chose this one. 
+ And it was the right choice. 
+ The main advantages of this hotel are:
+1) Prices (they are quite reasonable and the service is worthy. 
+ staff is very polite). 
+
+2) Rooms (mine was cozy. 
+ neat and had a. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_418412530'). 
+ 'review_418412530'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_418412530'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_418412530'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+One of the best places I have been. 
+ My husband and I loved this hotel because it was very cozy and lovely. 
+ Moreover it is situated near the bus stop and it is very convenient. 
+ If my husband and I visit this city again we will stay here again for sure. 
+
+
+
+
+I’ve stayed in this hotel for a while and I’m completely satisfied. 
+ The room was nice. 
+ neat and wide. 
+ with the beautiful view from the window. 
+ Everything is clean and nice. 
+ and the staff was very pleasant. 
+ As they say: It’s all about the people who make the hotel a worth place. 
+ Well. 
+ they are definitely the best and that’s. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_417500128'). 
+ 'review_417500128'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_417500128'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_417500128'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It was great in there. 
+ Amazing lobby with friendly staff. 
+ Room is very comfy with TV and good view. 
+ Yuvraj is a nice place with delicious food and fast service. 
+ Everything is clean and tidy. 
+ Definitely recommend it. 
+
+
+
+
+I really admired the staff in the hotel - it's been a while since I've seen so sincere and kind staff. 
+ They deserve all the credit - my compliments to the cheff too - we didn't even have to go out - the food was so nice there. 
+
+
+
+
+The location of the hotel is good and the staff members are very courteous however. 
+ this hotel has its own perennial issues of oldness though the management made their best efforts to improve it. 
+ I had opted an Executive AC room and the room was quite spacious . 
+ the bathroom was very small and you will not find a hook. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_413780897'). 
+ 'review_413780897'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_413780897'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_413780897'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Hotel Poonja International one of Mangalore's oldest hotel is a nice place to stay. 
+ Rooms are spacious and clean. 
+ need to upgrade their AC's. 
+ Service is good . 
+ their breakfast spread and food quality needs a lot of improvement. 
+ If it improves on this 2 aspects then it is worth the money spent. 
+ Overall a good experience and also it. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_413404508'). 
+ 'review_413404508'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_413404508'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_413404508'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We were given a room in second floor. 
+ The view was nice. 
+Neat interior. 
+ with room-calls attended promptly. 
+ Food was good. 
+
+More hooks and hangers could be provided. 
+ Bills were promptly handled. 
+Would love to return again and would also refer this hotel to other people. 
+
+
+
+
+We stayed here on 15th August 2016. 
+ All very clean and well lit rooms. 
+ Hotel Staff . 
+ management team is very courteous. 
+ Hotel at good location with reasonable room tariff. 
+ WiFi is available only in the lobby and not in the rooms. 
+ sure would like to stay here if visiting this city again. 
+
+
+
+
+I have spend great time in this marvellous hotel. 
+ Remember those times with pleasure. 
+ Clean. 
+ well-lit rooms with lovely decorations. 
+ Delicious. 
+ varied food. 
+ everything was fresh and tasty. 
+ Very friendly personnel. 
+ ready to help anytime. 
+ Will visit it again with no hesitation. 
+
+
+
+
+I was here last month and I'm pleased with this hotel. 
+ Location of the hotel is comfortable. 
+ Rooms are fully-furnished. 
+ with not up-to-date style. 
+ . 
+ it's quite OK. 
+ I was very satisfied after dinner cause it was incredible. 
+ Staff is warm-hearted and obliging. 
+ So if I visit this city once more. 
+ I will choose this hotel. 
+
+
+
+
+So i think its time to share my opinion too :). 
+ We visited Poonja hotel last year with my parents. 
+ We had only good impressions of it. 
+ Nice design. 
+ very friendly personnel. 
+ perfect breakfasts. 
+. 
+. 
+ Also i can notice location of hotel: it is very comfortable for sightseeing and shopping. 
+ I think we will come back this fall. 
+
+
+
+
+It is a great hotel. 
+Breakfasts are really good here. 
+I was here with my husband last year and we really liked it. 
+not far from the center so all the destinations can be approached very easily. 
+Honestly. 
+I liked this place so much that I want to go there again this year and probably next year. 
+That's the best place in town for sure. 
+This I. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_393968722'). 
+ 'review_393968722'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_393968722'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_393968722'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It is a perfect place forresting int summer. 
+ Hotel at the center with air conditioner at the place extrimly hot. 
+ Very comfortable rooms with flowers greetings you look nice and highly qualified personal at reception make a hotel check-In very fast. 
+
+
+
+
+This hotel is far from luxury if you know what I mean. 
+ . 
+ is quite nice in its category. 
+ I appreciate good location. 
+ commercial center is right in front of hotel. 
+ Nice service and staff. 
+ It was a pleasant stay. 
+ I can recommend this hotel to my friends. 
+
+
+
+
+Nice hotel. 
+ I realy enjoyed it. 
+ Nothing special . 
+ the atmosphere is very homely. 
+ A very fasсinating view from windows. 
+ The room service is good too. 
+ I will recomend this hotel to my friends. 
+ Enjoy. 
+. 
+
+
+
+
+This hotel is located in the central area of Mangalore city. 
+ This is a one of the old hotels in mangalore. 
+ Rooms are neat and clean and spacious. 
+ needs renovation. 
+ Service is OK and serves complimentary breakfast for a. 
+c room inmates and the quality of food is Ok
+
+
+
+As for me the most important things for hotels are convenient location and good room service. 
+ They are both on the highest level in this hotel. 
+ If u want to go shopping the mall city centre is right across the street which is perfect for last min shopping if you havent gotten a chance to do it earlier. 
+ And rooms. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_388733465'). 
+ 'review_388733465'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_388733465'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_388733465'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This is by far a wonderful place to stay. 
+ Especially friendly staff. 
+ large suites. 
+ perfect choice for families. 
+ The rooms at the higher floor give a good birds eye view of the city as the hotel is the tallest one in the entire city hence very peaceful. 
+ I hope to return very soon. 
+
+
+
+
+I stayed in poonja international for a week with my wife and little son. 
+ We had a quite big living room. 
+ Property was not new . 
+ nice and clean. 
+ Food was very tasty and not too costly. 
+ Also hotel service is pleasing. 
+ We enjoyed it so much. 
+
+
+
+
+Booked a suite room (room 615) for my family and kids. 
+It had a nice living room with dining area . 
+ free complimentary water. 
+ coffee. 
+tea maker with sufficient supplies. 
+ Nice bedroom with king size bed and a huge bathroom with a nice bathtub which my kids enjoyed. 
+The view from the room was breathtaking . 
+ could see the sea from the room. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_385803110'). 
+ 'review_385803110'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_385803110'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_385803110'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+complementary includes delicious south indian breakfast such as idlis vadas dosas with sheera the local sweet dish particularly standing out and they also provide cereal eggs milk and juice for those who prefer otherwise. 
+ What is most important my room was very comfortable and cosy. 
+ The service was on the highest level recommend it to all my friends. 
+
+
+
+
+We used a banquet hall Samrat for a pre wedding sangeet ceremony with state of the art facilities provided. 
+ such as a large projector screen. 
+ music and abundent space for a makeshift dance floor. 
+ We also liked the delicious appetizers provided such as chicken malai tikka. 
+ paneer ghee roast hariyali kebabs and sea food. 
+ I recommend the hall for receptions. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_384835677'). 
+ 'review_384835677'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_384835677'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_384835677'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed at this hotel with my mum. 
+ Our room was beautiful and comfortable. 
+ and most importantly always clean. 
+ Location is also quite convenient and we have always had the opportunity to safely walk or take a bus to the tourist attractions. 
+
+
+
+
+I've been there with my husband for our honeymoon. 
+ Service in this hotel is on the highest level. 
+ Also staff was really helpful and always ready to answer all our questions. 
+ I find it very essential. 
+ Moreover price here is quite reasonable. 
+ Will recommend it to all my nearest and dearest. 
+
+
+
+
+I visited this hotel recently and decided to leave a review because I really liked this place. 
+ Delicious food. 
+ nice atmosphere and friendly staff make your stay here pleasant. 
+ For a very acceptable price I got a decent level of comfort. 
+ I was satisfied with this hotel. 
+ Thanks you. 
+
+
+
+
+Had a conference for about 50 people arranged at the hotel's sabha conference hall while the delegates stayed at the hotel as well buffet was arranged at the hall as well. 
+
+We were very pleased with the provided conditions. 
+ We had everything for a comfortable stay and especially likes the buffet and the modern conference hall
+
+
+
+As for me this hotel meets all high quality standards. 
+ It's wonderful on everything from the smell in the hallway to sets of shampoos in the bathroom and big comfortable beds. 
+ Moreover. 
+there is professional. 
+ experienced and polite staff. 
+ All issues were resolved within 5 minutes. 
+ I really like warm friendly atmosphere there. 
+ so it would be nice to come back. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_381060404'). 
+ 'review_381060404'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_381060404'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_381060404'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I visited this place with my brother and sister. 
+ And you know. 
+ I want to say that this hotel impressed us. 
+ Very comfortable. 
+ beautiful decoration. 
+ clean rooms. 
+ everything looks so great. 
+. 
+. 
+ It is perfect place to come and relax after walking around the city. 
+ I'm sure we once again get back. 
+
+
+
+
+This place was quite nice. 
+ We stayed for two nights and haven't been disappointed in our choice. 
+
+The room was good . 
+ too dark for me. 
+ The complimentary breakfasts were okay. 
+
+The best thing about this place is its location. 
+
+Communication with staff was fine. 
+
+Overall well worth the money paid. 
+
+
+
+
+Located at a prime location in the city. 
+ They have several rooms. 
+ Rooms were average clean. 
+ But bathroom was not. 
+ The grout lines i. 
+e. 
+ the small gap between floor tiles in the bathroom was black with several years of dirt. 
+ The AC in the rooms did not work properly. 
+ The mattress. 
+ pillows and comforters were good though and looked clean. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_378136779'). 
+ 'review_378136779'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_378136779'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_378136779'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+the hospitality and the service provided s really good and being located in the center of city pretty much accessible . 
+ smooth n courteous staff. 
+ ambience is pretty good . 
+ room is also pretty good and well maintained. 
+. 
+for the budget level also its good one to stay. 
+
+
+
+
+In this hotel everything is done for travelers comfort. 
+ First. 
+ the hotel is located in the heart of Mangalore so I found a lot of interesting places just in walking distance. 
+ My room was great. 
+ very comfortable and clean and with a big TV set. 
+ Next time I will stay there again. 
+ I really enjoyed the place
+
+
+
+I liked our stay in the Poonja hotel. 
+ The place itself is nice as well as the people that work there. 
+ The location is great. 
+ The room was clean. 
+
+Want to note that they have a bar that has been stocked with some finest alcohol for acceptable prices. 
+
+
+
+
+The quickest check in I've ever seen before. 
+ smooth check out. 
+ Hospitable service - I felt almost at home:) Everything is done for clients' satisfaction. 
+ The room was nicely decorated. 
+
+Overall will recommend this place to my friends. 
+
+Amazing
+
+
+
+The hotel is located in heart of mangalore city. 
+ The rooms are spacious. 
+The prices of rooms vary depending upon the suite you opt. 
+We booked this hotel through MMT and we got 70% discount. 
+The hotel restaurant is nice and staff are user friendly. 
+Nearest beach is 12 kms away. 
+ the city centre is near to hotel. 
+Airport is 20kms away from this hotel. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_375488957'). 
+ 'review_375488957'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_375488957'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_375488957'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The rooms are really spacious. 
+ The hotel is located in the center which makes it easier to travel round. 
+ Nicely served measurements. 
+ The staff were very friendly and helpful. 
+ Staying here was really pleasant and relaxing. 
+
+
+
+
+Hotel restaurant yuvraj is great. 
+ We visited it with my friends. 
+ Good and polite staff. 
+ clean rooms and tasty food. 
+ Also we was fond of chicken ghee roast it is real delicious. 
+ My friends also liked it very much. 
+ I think next year I will visit this place again. 
+ And I advice everyone to come here. 
+
+
+
+
+I wanted to experience premium service. 
+ . 
+ I was low on money. 
+ That was the best offer I found on TripAdvisor. 
+ We booked 3 rooms. 
+ They are huge. 
+ clean and featured with decent furniture. 
+ Staff speaks at least 3 languages and they are ready to help anytime. 
+
+
+
+
+I've been to many hotels during my trip to India and the main problem all of them as everybody knows is cleanliness. 
+ Well the Poonja hotel met all my expectations. 
+ Room and bathroom were clean enough. 
+
+The room was spacious and had enough of furniture and a big bed with a new mattress. 
+
+Location is good. 
+ in the centre of. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_372539214'). 
+ 'review_372539214'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_372539214'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_372539214'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed one night & checked out as we could not stand the stinking smell. 
+ there is no housekeeping at all in this hotel I think. 
+ worst is the bathroom. 
+ Please do not book online. 
+ make sure to visit first. 
+ then book it if you feel ok. 
+ The gentleman at the reception is not polite. 
+ unprofessional. 
+ act over smart & not. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_371950813'). 
+ 'review_371950813'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_371950813'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_371950813'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Difficult to decide where I should start. 
+ The only - and I mean ONLY - good thing about this otherwise avoidable dump is the size of the rooms. 
+ Our Executive AC room was quite spacious. 
+ old-fashioned yes. 
+ . 
+ quite comfortable. 
+ A larger bed would have suited it better though. 
+
+Apart from this. 
+ everything else goes wrong. 
+ When you check-in. 
+ reception. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_371757469'). 
+ 'review_371757469'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_371757469'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_371757469'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We booked it based on TA recommendation for 1st trip to Mangalore. 
+ It was boys weekend. 
+ No where were we disappointed with the Hotel. 
+ It is located centrally in the city. 
+ There are malls. 
+ multiplex. 
+ shopping area all in walkable distances. 
+ The have ample car parking sapce. 
+ Close to Bus stand. 
+
+Pros:
+Location
+Price
+Running Hot Water
+Car Parking
+Good. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_370303672'). 
+ 'review_370303672'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_370303672'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_370303672'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+My last stay at Poonja was really wanderful. 
+Hotel was located at the Heart of the City. 
+Very convenient and prime location . 
+In last December . 
+i had booked 8-10 rooms. 
+booking for my cousin weeding for a week coming to India after a gap of 5 years so really wanted to try the food. 
+Excellent service rendered by all front desk was very prompt. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_366000978'). 
+ 'review_366000978'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_366000978'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_366000978'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed there for a day with family
+Rooms asked were deluxe booked in advance for 2 rooms . 
+ could get only one and one standard roomy. 
+ The room air conditioning does not work. 
+ When you ask they say it takes time to start . 
+ it never starts. 
+ Rooms are stinking. 
+ Bath rooms dirty and nit maintained. 
+ Food also very expensive. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_365031321'). 
+ 'review_365031321'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_365031321'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_365031321'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This is one of the worst hotels in mangalore. 
+ rooms is old and filthy. 
+i went to use lue in restaurant and saw toilet not flushed deu to lack of water. 
+ No water even to wash hand. 
+ I will never go there again
+
+
+
+Me and my friend stayed at this hotel in the beginning of april . 
+ as female travelers from Europe we felt extrmeley safe at this hotel . 
+front office staff helped us a lot in getting around the city and to our next destination by train . 
+ we stayed at room number 505 . 
+ room was spacious and clean . 
+ however. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_363728202'). 
+ 'review_363728202'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_363728202'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_363728202'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+First I'll tell you. 
+ this property is of the old fashioned variety. 
+This includes a atrium in the building with high floors and wooden paneling everywhere. 
+ But. 
+ it is kept clean and neat and they've preserved the old charm in a good way. 
+
+Very courteous front desk. 
+ Easy check-in. 
+
+The rooms match the old styled decor. 
+ Kept very clean though. 
+ above. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_361895395'). 
+ 'review_361895395'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_361895395'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_361895395'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This is old hotel. 
+ The staff is courteous and the check-in was quick and efficient. 
+ The rooms are spacious . 
+ some rooms need added maintenance. 
+ The hotel is centrally located in the heart of the city with many restaurants and eating options near by. 
+ There are many malls and shopping attractions near by. 
+ Our room came with a buffet breakfast. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_361767908'). 
+ 'review_361767908'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_361767908'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_361767908'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I always have a nice review for this hotel. 
+ and still remember my father used to come for business trip. 
+ . 
+ this time was with my wife and kids. 
+ And stay was comfortable. 
+ Food as usual great. 
+ only thing i upset with is old vienna. 
+. 
+ And its need a renovation and good touch up. 
+ rest nothing to say. 
+ as i. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_361701650'). 
+ 'review_361701650'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_361701650'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_361701650'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The hotel has still in the old style. 
+ They keeping it as it is like 25 years ago. 
+ That's OK. 
+
+But as I entered in the room there is mild bad odor as you entered the room. 
+ after a while got used to it. 
+
+Complimentary breakfast they provide is very very basic. 
+
+The good thing is staff are very kind. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_358047759'). 
+ 'review_358047759'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_358047759'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_358047759'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed hotel poonja international for 1 day trip. 
+. 
+overall nice experiance. 
+. 
+. 
+hotel ambience was good. 
+staffs are cooperative. 
+room was good . 
+ poor interiors. 
+Bathroom conditions not good. 
+. 
+overall nice stay for one day . 
+ make improvement
+
+
+
+Dear All. 
+
+I have recently stayed in this hotel for a very short stay of 1 day. 
+
+As this hotel building is very old. 
+ & rooms are other decor & infrastructure is also not of modern class which we all generally expect. 
+
+But as I advise. 
+ for a short stay of day or two. 
+ this is good place as its. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_352529590'). 
+ 'review_352529590'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_352529590'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_352529590'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+They have survived. 
+ And you too could survive without much of a hitch. 
+ A little fussy with service and certain improvements are long pending. 
+ . 
+ for a brief traveller who just wants basic facilities at a reputed place . 
+ doesn't want to burn a big hole in the pocket. 
+ this place is the place. 
+ If you can develop a humorous. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_350845733'). 
+ 'review_350845733'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_350845733'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_350845733'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stay here once and i feel it is very costly hotel. 
+I never advice any average income person to stay here because of cost of the room is too high. 
+There facility is good . 
+ not comparable as the cost they are taking. 
+
+
+
+
+I came in April I was stayed in room no 405. 
+. 
+. 
+when I entered in the hotel I face lot of problem. 
+ . 
+. 
+. 
+ in this hotel there is one smiling face his name is shoaib ahmad he helps me a lot . 
+. 
+only he is understand hindi and English. 
+ . 
+. 
+only because of him we feel very nice. 
+ . 
+. 
+so we want come again. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_343896184'). 
+ 'review_343896184'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_343896184'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_343896184'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We shifted from a hotel nearby as it was expensive. 
+ The hotel is quite old and outdated. 
+ Even if the prices are decent. 
+ the hotel should update their rooms. 
+ The reception were quick to check us in. 
+ The car parking is good with a lot of space. 
+ Was disappointed when the were painting the roof and did not have the. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_343688218'). 
+ 'review_343688218'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_343688218'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_343688218'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I went with family and stayed for 3 days. 
+ The staff was very welcoming. 
+ rooms are decent. 
+ not the best . 
+ according to the price you pay. 
+ the provide local authentic food of mangalore. 
+ They can connect you with a local guide as well. 
+ Centrally located. 
+ Central market is near buy. 
+
+
+
+
+The hotel is conveniently located close to the City center including the City Central Mall. 
+ Number of eateries are nearby. 
+ The rooms are fairly big and comfortable. 
+ There is one restaurant by name Yuvraj which is quite expensive. 
+ The fare from Airport to the hotel is Rs. 
+ 500. 
+- for a prepaid taxi and takes about 45 minutes. 
+ Overall we had. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_343217964'). 
+ 'review_343217964'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_343217964'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_343217964'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed at Poonja 3 years back. 
+ it was decent and returned for a similar experience last week. 
+ This hotel needs a good make over. 
+ Rooms not clean. 
+ taps not working. 
+ water over flowing from bathrooms. 
+ Better to avoid. 
+ you will get better hotel for same rates. 
+
+
+
+
+Poonja is an old world hotel from yesteryears. 
+ 28 years old and standing tall in the heart of mangalore town. 
+ I had reserved a stay here for a family trip with a lot of expectations after looking at the reviews and age of the property. 
+ We were 8 of us travelling with an infant. 
+ Booked 4 non AC rooms through. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_342972498'). 
+ 'review_342972498'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_342972498'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_342972498'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We stayed this hotel for our group booking of 59 person on 18th to 20th December 2015. 
+ It was an amazing experience with friendly and very courtesy managements which made us to feel worth being to the hotel. 
+ although the hotel seems to be bit old . 
+ the hospitality at its best has made us to thank this hotel through. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_342770169'). 
+ 'review_342770169'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_342770169'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_342770169'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I recently traveled to Mangalore during the Christmas Holidays with my friends. 
+ We stayed here for one night and because we had got a good deal through Makemytrip. 
+ My overall experience was average. 
+ It is a decent hotel in a posh location and not a shady one. 
+ I would recommend it if you are traveling with family. 
+ The hotel has. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_338056287'). 
+ 'review_338056287'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_338056287'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_338056287'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We booked & paid in full for 2 rooms 107 . 
+ 108 for 28th & 29th Dec. 
+
+We are really disappointed to inform you that our experience in stay with you was very bad
+Toilets were Not Cleaned
+Rooms were not Cleaned
+Bed were not arranged
+Towels were not replaced
+Bath Mats were not replaced
+Telephone wire not connected
+Response. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_338040160'). 
+ 'review_338040160'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_338040160'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_338040160'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I recently traveled to Mangalore to celebrate New Year. 
+ I stayed two nights in the Hotel. 
+ My overall experience was very Good. 
+ I went with a big family having ladies and an infant. 
+ It is a decent hotel in a posh location and not a shady one. 
+ I would highly recommend it if you are traveling with family. 
+ The hotel. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_337463645'). 
+ 'review_337463645'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_337463645'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_337463645'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+You can find better Hotels in Mangalore which are cheaper and cleaner. 
+ This used to be one of the best Hotels in Mangalore. 
+ . 
+ it turned out to be such a big disappointment
+I unfortunately have almost everything negative to mention about our stay in this hotel. 
+
+1. 
+ The linens and the towels were very dirty and stale. 
+
+2. 
+ Bathroom. 
+toilets. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_337184049'). 
+ 'review_337184049'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_337184049'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_337184049'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I have stayed here from December 28th to 31st. 
+ Hotel is located very close to city center and connectivity is very good. 
+ I have booked executive room. 
+ Room size was good. 
+ Since it was peak holiday period. 
+ I didn't mind waiting for 20 minutes to get the room ready for check-in. 
+ Hotel has one Yuvraj restaurant which serves descent quality. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_336464068'). 
+ 'review_336464068'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_336464068'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_336464068'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+we booked a room for 2 nights on 28 th and 29th of December. 
+. 
+. 
+ due to some problem we reached the hotel @ night 12. 
+15 . 
+ at that time hotel staff told us that they waited us for till 10 and give the room to others. 
+ and there will be no rooms for us. 
+ we called the customer care of. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_336331804'). 
+ 'review_336331804'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_336331804'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_336331804'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed at poonja international in the deluxe room. 
+The room size is quite big with big wash rooms. 
+The property is too old. 
+But the rooms are neat & clean. 
+They have window a. 
+c. 
+The hotel is situated in the main city opposite to old bus stand at Hampankatte. 
+Rickshaw is easily available. 
+Food is ok. 
+They have a non veg restaurant by the name Yuvraj. 
+The restaurant. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335579482'). 
+ 'review_335579482'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_335579482'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335579482'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed in poonja international for about 4days with my mom and we booked a suite. 
+it had a flat screen tv with a spacious living room and the room was clean and tidy. 
+in addition to this the food was delicious. 
+the hotel staff were friendly and I had a very comfortable stay will definitely come back here
+
+
+
+I stayed at Poonja Hotel during Christmas holiday and it was horrible experience. 
+ I went there with my family and had booked 2 AC rooms which was confirmed booking . 
+ after reaching hotel they told that they can give only 1 room and refused to refund any money as well. 
+ Hotel staff and manager were very rude as well and. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335360324'). 
+ 'review_335360324'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_335360324'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335360324'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed at Hotel Poonja International a couple of days back. 
+ On reaching the hotel. 
+i was told the rooms weren't available and i was a bit disappointed and upset as i had booked the room online. 
+The Hotel staff then informed me that there has been some problem with the online booking website and assured me that i would get the. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335217799'). 
+ 'review_335217799'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_335217799'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335217799'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This hotel was a horrible experience. 
+ Don't fall prey to their hospitality. 
+ Pathetic service and washrooms. 
+ If you are tired and are expecting good washroom for shower GOD SAVE YOU. 
+ Delete this hotel from your list if ur visiting mangalore. 
+ PATHETIC EXPERIENCE. 
+
+
+
+
+I had booked this room after going through a lot of reviews and many other hotels. 
+ The reviews were mixed. 
+ Still I went ahead with the booking as I got a decent discount. 
+
+We were impressed with the hotel's building and large parking space. 
+ But then started the bad experiences. 
+ The hotel poorly maintained. 
+ Poor maintenance can be soon right. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335006496'). 
+ 'review_335006496'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_335006496'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_335006496'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The hotel is very badly maintained with no support from the staff. 
+ I had to view 6 rooms before settling for a room that was the best amongst what I saw. 
+ That room too was below mediocre. 
+ Because of the bad room I spent most of my time outside in the city. 
+
+
+
+
+I came to Manglore on a business trip and stayed here in the suite for 5 days and the staff was very courteous and I have noticed changes since my last visit. 
+located in the heart of the city it's very convenient I enjoyed my stay here and will definitely come back again soon
+
+
+
+Visited Poonja International after many years and I am very happy with my decision to come back here. 
+ Could see many changes in the Hotel. 
+ specially in the management and the way the staff treated me. 
+ Had a wonderful stay and am surely coming back here when I am on my next trip to Mangalore. 
+ I highly recommend this Hotel. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_333734373'). 
+ 'review_333734373'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_333734373'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_333734373'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I was just passing through Mangalore and needed to put up for just 1 night. 
+ The front office staff was very polite and friendly. 
+ Even convinced me to upgrade my room. 
+ The room was very clean and comfortable. 
+ . 
+ the bathroom was a big disappointment. 
+ The taps were not working properly. 
+ They were corroded and wouldn't turn off. 
+ The shower. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_332364848'). 
+ 'review_332364848'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_332364848'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_332364848'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The room was tidy. 
+ and our highlight was the delicious meal in the restaurant. 
+ The duty manager was extremely helpful and friendly. 
+ and in more than one occasion helped us with helpful information. 
+
+A detail: on some reservation engines the hotel is rendered with a pool. 
+ In reality. 
+ it does not have one. 
+
+
+
+
+My Second Home. 
+
+Rating 5star
+I have been staying at Hotel Poonja International for long & very regular. 
+ as i seen' there was up & down with few minor issues which i experience during my stay. 
+ . 
+ now i can see and feel lots of changes with good things taking place of which one is hot water issue during peak. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_331582142'). 
+ 'review_331582142'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_331582142'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_331582142'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Hotel is located close to most places. 
+ Hospitality is good . 
+
+Elevator service is a huge problem. 
+ at least one of the elevator was mostly down and other misbehaving. 
+ Beds are good and room service is fine. 
+
+Hot water in the mornings could be problem at times. 
+ bath room needs a huge make over and everything needs to be maintained. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_331552313'). 
+ 'review_331552313'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_331552313'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_331552313'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Nice corporate & budget Hotel withgood. 
+ cleanly accommodationand food is quite nice ( the property is under renovation i assume) quite a good place and convenient location it is in heart of the city nd a mins walk to my favourite mall-city centre. 
+ the staffs. 
+specially the General Manager are very professional. 
+ we enjoyed our stay. 
+ Worth the money too :)
+
+
+
+If you want to b in concrete city centre then u can stay in here. 
+. 
+. 
+ However if you want to enjoy the real Mangalore. 
+ try finding a place around uduppi. 
+. 
+. 
+ The hotel is average . 
+ the approach road is one way. 
+. 
+. 
+. 
+you will have hard time in reaching this place. 
+. 
+. 
+ The morning breakfast buffet is below average n nothing will be. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_330134922'). 
+ 'review_330134922'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_330134922'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_330134922'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It is located very closed to station. 
+ That is only plus point. 
+ Room was ordinary. 
+ seemed hotel required renovation. 
+ Service was poor. 
+ There isn't much of a view from room. 
+ It is just opposite a mall. 
+ so good for shopping or eating out once your work is over. 
+
+
+
+
+comparable the rate is very reasonable. 
+ ( one should go for A. 
+C Rooms) with clean and tidy. 
+ big rooms. 
+ the staffs are very professional and hospitable. 
+ and moreover the location is very convenient and near to all the major places . 
+. 
+. 
+
+
+
+
+The hotel is situated in the heart of the city where Railway station is just at 5 min distance. 
+ Rooms are spacious. 
+ Good mannered staff. 
+ Friendly warm front desk. 
+ Perfect for family or business stay. 
+ Food though costly . 
+ very tasty and nice. 
+ Value for money. 
+
+
+
+
+the hotel was good the room and staff response was good the hotel GM was very supportive the location of the hotel is very good there is no plug point near to the table. 
+ please provide more plug point
+
+
+
+Hotel needs refurbishing. 
+ location is very convenient. 
+ old property . 
+ needs to maintain. 
+ staff are ok. 
+
+pool is out of order. 
+ no in room entertainment TV is old. 
+ does not work well. 
+ very few channels Telephone ? horrible. 
+
+
+
+
+This is a good hotel located in the center of the city with spacious and clean rooms . 
+This hotel has enough space for car park. 
+The staff is Courteous and efficient. 
+ Little bit of refurbishing is required to enhance the aesthetic appeal
+
+
+
+It is a 3 star hotel with not much better rooms and facilities. 
+ . 
+ the proceedures are simple. 
+ a little excess rate on avarage facilities. 
+ Room service and house keeping is good. 
+ the restaurant Yuvraj inside this is awesome. 
+ The rooms are little older in looks
+
+
+
+1. 
+ Font office response terrible. 
+
+2. 
+ Room service there cant be worse than this. 
+
+3. 
+ Staff seems thy are doing the charity. 
+
+4. 
+ In the night you will see 2-3 guys in white dress. 
+. 
+ seems like they are the god and others are there only to serve them. 
+
+5. 
+ We booked 5 rooms… . 
+ had to struggle a lot to. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_321869359'). 
+ 'review_321869359'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_321869359'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_321869359'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It's a good place to stay with family as the staff is very cooperative and friendly - though the rooms are overpriced compared to what the standard is - even the food prices are very high as the quality and taste is simply AVERAGE. 
+
+
+
+
+I usually stay at deepa comforts in mangalore. 
+ . 
+ this time thought why i should i shell out 4k for a night and stayed at poonja. 
+
+Positives: car parking. 
+ bang in the centre of the city. 
+ close to city center mall. 
+ cheap at around 2. 
+2k per night with 24 hrs chk out
+Negatives: very old rooms. 
+ cranky ac. 
+ only one. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_302172466'). 
+ 'review_302172466'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_302172466'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_302172466'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed in this Hotel exactly 2 years back and was really happy staying then . 
+ during this visit i find lot of issues that needs to be corrected by the hotel management. 
+
+Hotel is well maintained. 
+Food quality is reasonably good. 
+Power back ups is available. 
+Cab service is available in travel desk. 
+
+Last visit to this hotel was on 24th Dec. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_275871326'). 
+ 'review_275871326'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_275871326'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_275871326'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I stayed in Poonja International during last visit. 
+ The cost is more as compared to the quality of the rooms and service offered. 
+
+I was to wait around 1 hour as the room was not ready. 
+ Further the room was having two separate single beds. 
+. 
+. 
+ quite strange for family stay. 
+
+The bathroom fittings are quite old. 
+ and the towel also. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_270339314'). 
+ 'review_270339314'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_270339314'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_270339314'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I was booked by a pharma company in this hotel for a medical conference that was being held in the city. 
+ They couldn't get me an AC room due to the rush . 
+ the non AC room i got was also good enough. 
+ It was airy and comfortable. 
+ Bathroom was clean and well maintained. 
+ The breakfast spread was limited . 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_266949724'). 
+ 'review_266949724'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_266949724'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_266949724'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Had checked into Poonja International on the 2nd of April 2015 with family and friends to re-live old memories. 
+ The experience was pathetic. 
+ The front office staff appeared as if they are not aware of anything regarding the customers tariff plans. 
+ The general service was absolutely poor . 
+ To top it up. 
+ there were bed bugs in the beds. 
+ Would. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_263692973'). 
+ 'review_263692973'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_263692973'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_263692973'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I had come to mangalore for just 10 hours and so all i needed was a place to freshen up. 
+ Considering the location i thought poonja was ideal. 
+ Checked in at 4AM and by 0715 i got a call asking me to shift from my alotted room 309 to room 310 as it was wrongly given by the receptionist. 
+ Seriously. 
+. 
+. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_261225842'). 
+ 'review_261225842'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_261225842'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_261225842'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+A hotel you need to visit and stay I had been to Mangalore and stayed for 4 days with my wife and kids. 
+ It's very nice Hotel of choice when you live in Mangalore. 
+ The rooms are excellent and very good hospitality given by the staffs. 
+ A home away from home. 
+
+Raymond. 
+ Bangalore
+
+
+
+Booked here as was travelling from Madikeri to Thrissur Very well staffed at desk For some odd reason I had to pay more than the actual bill on my credit card Sure they did refund difference . 
+ odd eh They seemed to suggest a previous guest had obsconded without paying That was the well manned fornt desks fault I feel. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_255122903'). 
+ 'review_255122903'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_255122903'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_255122903'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Good hotel. 
+ nice room (clean bed). 
+
+Hotel is nearby touring busstop and a mall. 
+
+Wi-Fi works good in de wifi area. 
+
+Bathroom is ok. 
+ good for use. 
+ it has warm water. 
+
+Friendly and helpful staff. 
+
+We had a nice stay. 
+
+
+
+
+The worst hotel experience ever. 
+
+The reception has no information about the online booking. 
+ They still follow paper and register systems. 
+ I took 2 AC rooms and stayed 1 night and half day. 
+
+Hotel's atmosphere is really bad. 
+ Poorly maintained rooms and amenities. 
+ Air Conditioner in my room is making loud noise while working. 
+ When I demanded another room due. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_253933693'). 
+ 'review_253933693'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_253933693'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_253933693'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I booked a A. 
+c double room. 
+ Stayed there two days. 
+But they charged me Rs 1000+ for extra one person because my 16 year old daughter with us. 
+ And also Without providing extra bed they charged me 1000+ for extra bed. 
+ They didn't informed us about the extra charges before hand when we checked it. 
+ I will never stay in this. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_252325113'). 
+ 'review_252325113'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_252325113'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_252325113'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The Hotel situation is very prominent in heart of city. 
+The Ambiance is also good. 
+ its food were very good. 
+And not to forget its Staff they were very friendly & helpful. 
+The rooms are not updated as per todaY's standard. 
+a big let down. 
+
+
+
+
+The only good thing about this hotel is the location. 
+ Otherwise right from the reception to the quality of rooms to the food spread is bad when compared to the tariff. 
+ The breakfast spread is lousy best described. 
+ Unless location is the topmost priority on your list look at avoiding this hote. 
+
+
+
+
+We had stayed at this hotel some twenty years ago when it was brand new and wanted to see if it was as good as before. 
+ The owners seem to have let it go to seed. 
+ The room was very stuffy and smelled stale. 
+ The mattresses were hard as rock. 
+ the bedsheets and towels a grey colour. 
+ The hot water. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_250639995'). 
+ 'review_250639995'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_250639995'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_250639995'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Location is top notch. 
+ infront of city central mall. 
+ next to Ideal Ice cream parlour and next to Car street. 
+
+Room size is good. 
+ and quite clean. 
+ Recommend it only for family outings. 
+
+It has NO wifi in rooms. 
+ or no internet in rooms. 
+ A big negative. 
+ So business people. 
+ just stay away. 
+
+Room service is good enough and food. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_249297390'). 
+ 'review_249297390'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_249297390'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_249297390'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The location of the hotel was very good which made me this hotel. 
+ Public transport was easy to access from the hotel. 
+
+The room was big and clean. 
+ had no problems checking in either. 
+ The staff was courteous to extend the check out time as I had to attend a function. 
+ Unlike what the travel website told me. 
+ the check. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_248760717'). 
+ 'review_248760717'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_248760717'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_248760717'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I had booked online 2 rooms for 2 nights in this hotel in the month of December. 
+ On arriving at the hotel. 
+ the receptionists didn't seem to have a record for online bookings at all. 
+ There were 10-15 people waiting at the reception who had made online bookings here . 
+ the hotel was unable to find their records. 
+ Finally after. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_246949283'). 
+ 'review_246949283'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_246949283'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_246949283'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+check-in and check-out experience was very bad. 
+ Hotel management need to be educated about online booking through clear trip. 
+ They were asking about invoice which was not needed. 
+
+Hotel is ok and good for business trip (based on location). 
+
+
+
+
+We checked out last night. 
+one of the best stays I have ever had due to the best manager I have come across in recent times who made our entire stay a pleasant one. 
+despite being busy he catered to all our needs and made our stay really comfortable. 
+. 
+will definitely visit again since the manager told us their renovating and getting even. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_246375924'). 
+ 'review_246375924'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_246375924'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_246375924'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+It was a terrible place to stay. 
+ The lifts were not working. 
+ rooms were dirty. 
+ no waiters in their restaurant to serve food. 
+ Also they took a while to provide the room keys. 
+ In single word please avoid
+
+
+
+I believe most everyone looks forward to have a good sleep after a hard day. 
+ Then. 
+ if a situation arises in the. 
+ Hotel that's unacceptable or unpleasant you do your best to rectify it and expect some satisfaction from staff to fix the problem 
+On such an occasion in Manglore hotel I met the manager. 
+ Who went all the way. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_246156085'). 
+ 'review_246156085'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_246156085'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_246156085'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The Ambiance is Ok Ok. 
+. 
+
+They didn't provided a water bottle in the room. 
+. 
+ Even the restaurant is bit clumsy to have Breakfast. 
+. 
+ No note pad Beside the telephone. 
+. 
+. 
+ Remote of AC and Television doesn't work. 
+. 
+. 
+
+
+
+
+Today 19th Dec 2014 i reach Poonja international and these things i have facwd
+1) Despite having a Cleartrip Voucher I was made to wait for 20 mts to allocate a room
+2) Lift didnt work so had to Climb 4th floor to reach 417
+3) At 12 in d night use the toilet only to know that No water. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_245136628'). 
+ 'review_245136628'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_245136628'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_245136628'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+&quot. 
+Confused&quot. 
+ is the most apt description I can provide for this hotel. 
+ Mis-communication is in their bloodlines. 
+ and they ensure they provide as many hassles as possible for customers. 
+ I had blocked 15 rooms at this place. 
+ I was supposed to station my wedding guests here. 
+. 
+ I've contacted their management atleast 10 times in the last 6 months relating to. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_243493947'). 
+ 'review_243493947'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_243493947'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_243493947'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The location is very strategic. 
+ it is absolutely on the heart of the city. 
+ All shopping places are quite close by. 
+ Rooms are of average standard at least till the executive rooms. 
+ Breakfast menu is basic. 
+ Folks are fine. 
+ If you are looking for one or two night stay either on business trip or on personal trip. 
+ you can chose. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_242670628'). 
+ 'review_242670628'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_242670628'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_242670628'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+the hotel is very very bad no response from the staff no hot water in the morning the gernal manager is use less person to attend the compliants. 
+ the charges are high . 
+at the time of booking is one rate after you checked in they charge you another rate. 
+
+
+
+
+the location of the hotel is great. 
+ right in the midst of city. 
+ it is near to milagres church. 
+ railway station etc. 
+ . 
+ the rooms are well maintained. 
+ the front office staff were friendly. 
+ the food was fine. 
+ i do have an opinion that their service need to be more upmarket. 
+ other than that i felt great stay at poonja
+
+
+
+We had stayed here twice. 
+ The rooms were quite big. 
+ But the bathrooms were not well maintained. 
+ It was clean . 
+ the tiles were dirty and broken at some places. 
+ The cutlery at the restaurant was not clean. 
+ The breakfast menu had only bread-. 
+ter-jam and upma. 
+ Room service was also not great as we had to call twice. 
+thrice for hot. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_238457201'). 
+ 'review_238457201'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_238457201'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_238457201'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Hotel was decent . 
+ we booked a standard AC room and was neat and clean. 
+ The bathroom was ok. 
+ . 
+ over all there was no reason for us to complain. 
+ The Breakfast was pretty standard with no variety at all. 
+ . 
+ thats complimentary. 
+ so thats fine
+
+
+
+We stayed in this hotel for 3 nights prebooked over internet after going through reviews. 
+ got a decent rate and upon arrival very much found to be as per our expectations. 
+ The hotel is centrally located in the city and our check-in has been very smooth and courteous. 
+ The room was cosy. 
+clean and comfortable with basic amneties provided like tea. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_233490115'). 
+ 'review_233490115'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_233490115'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_233490115'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The hotel is equi-distant to most of hot spot in mangalore. 
+
+The service is good. 
+
+The rooms are clean and neat. 
+
+The service they provide could have been little more decent. 
+
+Overall it was a pleasent experience. 
+
+
+
+
+I went to Mangalore for a weekend trip with my family and booked a room at this place via cleartrip. 
+ When i reached there. 
+ the hotel staff told that they are out of rooms and they cannot give us room in spite of our booking and told us to talk to cleartrip. 
+ I tried calling cleartrip 10-15 times . 
+ everytime. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_232988239'). 
+ 'review_232988239'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_232988239'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_232988239'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I use to always use this hotel while travelling. 
+ But this time I had a very bad experience in this hotel. 
+ We paid for ac room and to our bad luck ac didn't work whole night. 
+ when complain it was ignored. 
+ when requested to return back ac charges . 
+ declined to pay back for what service was not provided. 
+ Complained. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_232566479'). 
+ 'review_232566479'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_232566479'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_232566479'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Avoid this hotel like the plague. 
+
+Though this hotel is located near city centre mall and railway station. 
+ there is absolutely no plus except the location and food. 
+ We did not try the complimentary breakfast though. 
+
+Stayed here around 15 years ago and the management does not seem to have spend a cent since then. 
+ Bathroom is absolutely useless with. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_232032416'). 
+ 'review_232032416'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_232032416'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_232032416'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+back in hotel poonja after a long time . 
+ happy to be back. 
+ excellent service . 
+ although i think the management is new . 
+ . 
+ they are doing a good job. 
+ food at yuvraj was good. 
+ there was some problem with hot water. 
+ . 
+ it was sorted out . 
+ stayed in the deluxe room. 
+ as a regular guest i got. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_228960842'). 
+ 'review_228960842'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_228960842'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_228960842'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We arrived in mangalore with a day to spare before our train. 
+ After looking around we checked into this hotel. 
+
+Its clean. 
+ affordable and situated in the center of the city. 
+ The city center mall and the railway station is just 2 min away. 
+
+
+
+
+Recently stayed in a double room. 
+The room was good. 
+ But the breakfast served was of very low quality (charged separately) in an ordinary hall. 
+ No good items were available (though the Menu showed too many. 
+). 
+ The bill showed Idli . 
+ Vada which were actually not served with an explanation that the total amount remains the same though the entry was. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_221742544'). 
+ 'review_221742544'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_221742544'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_221742544'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This is just a very ordinary hotel and must say that at the most can be rated as a two star hotel. 
+ Small rooms and bathrooms and did not look very clean either. 
+ Need a real make over. 
+ Room service was very expensive and the service was really poor. 
+ And the complimentary breakfast was a disaster. 
+ The restaurant ( or. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_221617749'). 
+ 'review_221617749'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_221617749'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_221617749'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I have been staying in this Hotel for the last 2 years. 
+ It was good. 
+ I came in after 4 months. 
+ But. 
+ this time my experience was horrible. 
+
+1. 
+ The reception counter people r v rude. 
+
+2. 
+ U order Tea. 
+breakfast. 
+Food u get it after 1 Hr. 
+
+3. 
+ The rooms smell. 
+
+4. 
+ V poor maintenance. 
+
+5. 
+ Cockroaches run here & there. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_215527156'). 
+ 'review_215527156'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_215527156'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_215527156'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I don't have words. 
+ Horrible 2 day stay. 
+ The reception was poor. 
+ The rooms offered was full of bad odor. 
+ I changed the room. 
+ Very low level AC maintenance. 
+ And ACs installed are like ages old. 
+ What can I say about the food? Horrible is such an under statement. 
+ I ate at KFC near to that hotel. 
+ No wi-fi. 
+ no. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_211940449'). 
+ 'review_211940449'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_211940449'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_211940449'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The one strength of this hotel is it's location near the station. 
+ Otherwise it's exactly what you'd expect from a reasonably priced city hotel - clean bed and hot water. 
+ with a little wear and tear here and there. 
+. 
+. 
+Good place for a one night stay. 
+ especially if you are travelling by train and the restaurant is wort a try -. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_210242806'). 
+ 'review_210242806'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_210242806'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_210242806'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed on 7th June Sat Night. 
+ Executive Deluxe Room is not even deluxe quality. 
+ Lost its Glory. 
+ Immediate renovation with new facilities is a must. 
+ Staff needs More training by Professionals. 
+ Not a right place for long stay. 
+ Please take immediate action to get the beauty back. 
+ Repeat that the staff need more training on Hospitality Management. 
+ Poor a. 
+c units. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_209527537'). 
+ 'review_209527537'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_209527537'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_209527537'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I went with my family to mangalore for vacation. 
+ we stayed at poonja international as we thought it was a good hotel by trip advisor's rating. 
+ But trust me it is THE WORST hotel ever I saw. 
+ Onli one lift was working and all the hotel staffs were using it. 
+ Everytime we climbed up the stairs. 
+ Food was really bad. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_209097703'). 
+ 'review_209097703'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_209097703'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_209097703'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+our stay in hotel Poonja international not to the mark as the rooms maintenance is poor. 
+
+The toilet not clean and the bed side lamp broken & not working. 
+
+The staff not courteous and the service not to the mark. 
+
+Over all not a good experience. 
+
+
+
+
+service-average
+room-although of reasonable standard. 
+this hotel is past its glory. 
+Needs some re-innovation and updating
+location-ideal location in Mangalore. 
+this is what i liked best about this hotel. 
+
+charges-little overpriced for its overall services and amenities. 
+this is i liked least
+
+
+
+I have been staying in Poonja international for past couple of years. 
+ Its a very nice place and the ambiance is good. 
+ The staff are also very accomodative. 
+
+Needs upgrade on Toilets and the breakfast time needs to be changed from 8am to either 6 to 7. 
+
+Over all a decent place in city centre. 
+
+
+
+
+Located in the heart of the city. 
+ Rooms are okay. 
+ The hotel is pretty old. 
+ needs some renovation. 
+ Service could be better. 
+ It has 24 hours check-in. 
+ that's a plus. 
+ Food items are costlier. 
+ Overall - less value for money. 
+
+
+
+
+The only good thing about this hotel is its location. 
+ Everything else is below standard compared to their competition. 
+ Hotel staff. 
+ food. 
+ room . 
+ you name it. 
+ it is below standard. 
+ Don't go to this hotel. 
+
+
+
+
+As I had no internet access I had to book a room over the telephone. 
+ The staff member was not very helpful and kept trying to refer me to a website even though I did explain I could not use internet at the time. 
+ Eventually I managed to make a booking and was quoted a price inclusive of tax. 
+ When. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_200198527'). 
+ 'review_200198527'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_200198527'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_200198527'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This hotel needs a complete revamp. 
+. 
+and does its staff. 
+. 
+where to begin. 
+. 
+well low priced rooms than others . 
+ now I know why. 
+. 
+location is good and room service was efficient. 
+. 
+. 
+ that’s about as good as it gets. 
+. 
+the reception staff is a bunch of confused souls. 
+. 
+unenthusiastic as well. 
+. 
+i had a goibibo booking and they did not have the details. 
+. 
+asked me to mail it. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_198988761'). 
+ 'review_198988761'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_198988761'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_198988761'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We stayed at this hotel recently. 
+The rates are very high for the quality maintained by them. 
+It is very strange that they do not have even a tubelight in the A. 
+C room. 
+What they have in the room is just a dim light( which is generally used as a bed light). 
+The bed sheets are very shabby. 
+untidy. 
+The towels are in very worst condition. 
+There. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_198384837'). 
+ 'review_198384837'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_198384837'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_198384837'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed here on 17th March 2014. 
+ All old no proper maintenance. 
+ Even the table cloths in the buffet breakfast is the worst I have ever seen in any Hotel. 
+ Only lobby is maintained. 
+ I stayed in room 114. 
+ I saw tapes in Shower. 
+ Towels become yellow. 
+. 
+. 
+. 
+ not all good experience. 
+ With this condition they charge exorbitant restaurant charges. 
+. 
+. 
+. 
+. 
+wrong selection. 
+
+
+
+
+I stayed with wifey for 2 days. 
+ from 2 to 3 Mar 2014. 
+ Took non-ac double bed. 
+ for around 1500 + tax. 
+
+The room was good. 
+ with a good view. 
+ and good bathroom. 
+ Not spotless clean. 
+ . 
+ more than OK. 
+ In the centre of the city (near to CityCentre mall) and stone's throw from bus stop to everywhere. 
+
+Good safety. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_195977725'). 
+ 'review_195977725'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_195977725'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_195977725'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The room was good and clean. 
+ Hot water was available in the morning . 
+ none at night. 
+ The bed was comfortable. 
+ It was quiet on the sixth floor. 
+ The complimentary Canadian breakfast was adequate with boiled eggs. 
+ toast and coffee. 
+ The restaurant was not that good . 
+ the front desk service was very helpful. 
+ For the price. 
+ it was average. 
+
+
+
+
+I checked in early morning at 6:00 AM though had booked from 12:00 noon. 
+ They did not make any fuss about it and also provided the complimentary breakfast coupon. 
+ Hotel is old . 
+ reasonable clean. 
+ I booked a deluxe AC room so it was okay. 
+ I had a good sleep. 
+ Next day i overstayed and checked out at 9 PM. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_195202189'). 
+ 'review_195202189'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_195202189'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_195202189'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The hotel is located very centrally in mangalore close to railway station and bus stand. 
+ However. 
+ it is not worth the price they charge. 
+ The room had damp walls and at night someone tried to open my door. 
+ Could be a mistaken guest though. 
+ There was staff talking all loudly in the corridor all night atleast till I was awake. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_195078974'). 
+ 'review_195078974'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_195078974'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_195078974'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We stayed at Mangalore as part of wedding ceremony. 
+ The hotel is reasonably priced. 
+ Very basic hotel with no fancy facilities. 
+ The rooms are neat and clean with basic amenities. 
+ Like any other small town hotel. 
+ better to carry your own toiletries and towels. 
+ Free Wifi is available in lobby . 
+ not in rooms. 
+ A simple south Indian breakfast is. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_194594190'). 
+ 'review_194594190'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_194594190'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_194594190'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Great location. 
+ Very close to the railway station. 
+ Can get noisy sometimes though. 
+ Surroundings are clean. 
+ The room is just average. 
+ Had taken the executive ac . 
+ it wasnt the standard I had expected. 
+ Breakfast was good. 
+ The staff was very polite and provided excellent service. 
+ Thanks to the GM Mr. 
+ Mangesh
+
+
+
+The Hotel is centrally location and is in a busy junction. 
+ very convenient from that point of view. 
+ The Room and facilities are so so only. 
+ and nothing great. 
+ the reception and the exteriors really look good. 
+ and the same do not reflect in the rooms. 
+ I can say the quality of maintenance and cleanliness in the room is very. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_193621554'). 
+ 'review_193621554'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_193621554'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_193621554'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+this one of the best hotels. 
+. 
+. 
+ very good rooms. 
+. 
+. 
+. 
+ very good food quality and taste. 
+. 
+. 
+ we tried various cuisines - Indian. 
+ Chinese and mangalorean - all were very well prepared . 
+. 
+. 
+. 
+ the service and staff is very good. 
+. 
+. 
+. 
+
+
+
+
+Poonja international is located at a good location in the centre of the city. 
+ Unfortunately. 
+ it is a narrow one way road. 
+ We missed it the first time and had to take a round-about way to come back. 
+ Had dinner there the first day. 
+ It was costly and had to wait for a long time. 
+ We went out to a. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_192075827'). 
+ 'review_192075827'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_192075827'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_192075827'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+In it. 
+s price bracket it was ok. 
+
+1700 none a. 
+c incl. 
+ tax. 
+
+Grey towels grey sheets. 
+a bit gubby. 
+as is so often the case . 
+a bit of house keeping could do miracles. 
+
+Location is it. 
+s saving grace. 
+very central. 
+
+Eat around the corner at Ideal cafe . 
+spotless. 
+great food. 
+
+I did a reasonable search . 
+ I didn. 
+t find anything else around the same. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_191677007'). 
+ 'review_191677007'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_191677007'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_191677007'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+As our Mangalore trip was planned at a very short notice - this was the only hotel that had rooms available. 
+ Pros first - great location and the staff there are very helpful and knowledgeable and arrange for tours (cabs) without charging extra. 
+ They have WiFi in the lobby and rooms with single beds which is great if you are. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_191227336'). 
+ 'review_191227336'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_191227336'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_191227336'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed here for two days on vacation with family. 
+ a decent hotel basic amenities. 
+ right at the center of city. 
+ there are many eateries around this place which you can try. 
+ Housekeeping to be improved. 
+ they did not clean the room during our stay of two days even though we put the sign to clean up. 
+ the complimentary breakfast offered. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_190804717'). 
+ 'review_190804717'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_190804717'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_190804717'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+My partner and I stayed from the 31st Dec and left late on New Years Day. 
+ As another reviewer note the New Years party was underwhelming. 
+ though this may largely have to do with Mangalore's strict alcohol piercing laws. 
+ especially during NYs. 
+ The PA system used for party music was not great as it couldn't handle any bass. 
+ was a. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_189993702'). 
+ 'review_189993702'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_189993702'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_189993702'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stayed here between 30th dec-2nd jan. 
+ booked it through makemytrip . 
+ the hotel staff informed that i could have got a 10% corporate discount if i had contacted them directly. 
+I stayed in a Non-AC (Economy) room. 
+ Only problem i had in the room was that there were two single beds which is not ideal in case you are traveling with. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_189681518'). 
+ 'review_189681518'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_189681518'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_189681518'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Don't ever pay 4000 for these executive ac rooms. 
+ Ac is broken age old and unsafe wirings. 
+ Please dont stay in this hotel. 
+ Nobody cares about compliment breakfast as the quality and service is very poor. 
+ They don't know what customers have during breakfast
+
+
+
+Actually I checked in to this hotel in December 2013 since the other hotels in the vicinity were full. 
+ I travelled solo and had booked a single Non-AC (Economy) room by e-mail and later also called up to confirm room availability. 
+ The room cost Rs. 
+ 1200 and with tax it was Rs. 
+ 1385 per day. 
+ Checked in at 6:30am and. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_189340652'). 
+ 'review_189340652'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_189340652'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_189340652'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The cost shown in the website is very high compared with the actual cost at the Hotel. 
+ hereafter i dont want to go with GOIBIBO or with any other sight. 
+ better to contact the hotel directly by using the hotel information. 
+
+
+
+
+The reception. 
+ room quality. 
+ maintenance etc. 
+. 
+ was good and there was value
+for the money I spent. 
+ Only one thing is that the food quality (breakfast was good) could be
+improved and the food cost can be little tuned. 
+ Right now. 
+ I felt it is very costly. 
+ (Especially dinner). 
+
+Another point to make is non-availability of faucet at the toilet. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_183705678'). 
+ 'review_183705678'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_183705678'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_183705678'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+i stayed for 3 nights in a non ac room in october 2013. 
+ the room and the bathroom were huge and clean even though a few things a bit old fashioned. 
+ the breakfast for the non ac rooms is not included . 
+ you can pay an additional rs 180 for a small south indian buffet. 
+ as a solo women traveller. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_182190758'). 
+ 'review_182190758'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_182190758'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_182190758'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Stay was pleasant . 
+. 
+. 
+ hotel situated in nice cool place . 
+. 
+. 
+ less noice . 
+. 
+. 
+ staff is coool and helpful . 
+. 
+. 
+ room is clean and neat . 
+. 
+. 
+ hygeinic . 
+. 
+. 
+ can recommend others for a pleasant stay . 
+. 
+. 
+ the main attraction is the location . 
+. 
+. 
+ bang in the middle of the city . 
+. 
+. 
+breakfast was a normal fare. 
+. 
+food at yuvraj restaurent was really. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_181854745'). 
+ 'review_181854745'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_181854745'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_181854745'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+We(2 family's) have stayed in hotel poonja international on 9th and 10th OCt 2013. 
+ we felt it is very good hotel. 
+ even if it is 23 years old. 
+they maintained it very well. 
+ They have restarent also. 
+ . 
+ it was little expensive. 
+ we had our dinner on 10th. 
+
+
+
+
+The hotel which is nearer to station with courteous front staff who responds to your e mail immediately needs to be appreciated. 
+ The lounge and restaurant are maintained well . 
+ rooms especially stained bed covers and not well maintained bath needs immediate attention. 
+ The running hot water is a question here. 
+
+The so called executive room where I stayed and. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_180536787'). 
+ 'review_180536787'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_180536787'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_180536787'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+This is one of the old hotels in Mangalore. 
+ The hotel is situated in the heart of the Mangalore city. 
+ I stayed in an executive deluxe room and my first impression was that the room definitely needed a makeover. 
+
+The room had a queen size bed. 
+ floor tails were old and discoloured. 
+ The cupboard had only half a feet space. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_180072067'). 
+ 'review_180072067'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_180072067'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_180072067'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+Spent two nights in Hotel Poonja International. 
+ A good hotel right in the heart of the city. 
+ Hotel is a bit old and require slight renovations. 
+ But the service was excellent. 
+ Had small issues with hot water etc. 
+. 
+. 
+ . 
+ was all immediately attended and sorted out. 
+
+We had made a booking through Stayzilla. 
+com and when checking out realised that they. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_180005887'). 
+ 'review_180005887'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_180005887'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_180005887'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+The first impression for me was that of a normal hotel. 
+
+I stayed for 2 nights to cover mangalore as well as udupi. 
+
+The room was spacious and clean. 
+
+The breakfast has variety. 
+ You also get the newspaper everyday. 
+
+The hotel has in-house restaurant as well as a pub. 
+
+So you can have a great time in the hotel itself. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_179824932'). 
+ 'review_179824932'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_179824932'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_179824932'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+I would like to start with saying that it's a great hotel indeed. 
+ When I was planning my trip to Manga lore. 
+ I was looking for the best. 
+ I checked in during the long weekend. 
+ so the hotel was jam packed. 
+ The rooms were clean. 
+ service prompt. 
+ food delicious. 
+ I stayed with my wife for 6 days in poonja international. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_175994223'). 
+ 'review_175994223'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_175994223'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_175994223'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+
+
+First the location was great to move around in the city. 
+
+The staff is very friendly and genuinely helpful
+I stayed with my wife their for one month and felt like home. 
+
+The restaurant has a vast menu and tastes really good. 
+. 
+ especially this yuvraj punch I drank like 100 of those. 
+. 
+
+

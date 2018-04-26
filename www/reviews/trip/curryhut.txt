@@ -1,0 +1,15 @@
+<p class="partial_entry">
+Curry Hut is one of those small family-run restaurants that doesn't try to impress you, they just do what they do. Situated in a small strip mall at E. Chapman Ave. and Victoria Drive with off-street parking Curry Hut has a concise menu with combos from the steam table (1, 2 or 3 items) plus biryanis, kathi rolls, tandoori chicken...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr406734867 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_406734867'), 'review_406734867', '1', 4444);; window.location.hash = 'review_406734867'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_406734867'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p>

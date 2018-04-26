@@ -1,0 +1,67 @@
+
+Sort of like a Subway for pizza. 
+ You chose your toppings and the pizza is made in front of you. 
+ The pizza was good and the beer selection for a small pizza joint was excellent. 
+ Quiet enough while I was there to have a conversation. 
+
+
+I love the thin crust and unlimited toppings. 
+ Ingredients are very fresh. 
+ My husband got a craft beer and I ordered a cider. 
+ Really great meal and affordable. 
+
+
+My wife and I decided to try Pizza Press last Sunday and we have mixed feelings about our experience. 
+ The staff are friendly and knowledgeable . 
+ they are so cheap with the toppings that you literally have to keep asking. 
+ &quot. 
+can I have more sauce? Can I get more tomatoes?&quot. 
+ Etc. 
+ I think it's weird that they count out 6. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_365760509'). 
+ 'review_365760509'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_365760509'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_365760509'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+

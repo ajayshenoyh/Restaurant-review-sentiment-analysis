@@ -1,0 +1,49 @@
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(2247). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_430987029'). 
+ 'review_430987029'. 
+ '1'. 
+ 2247). 
+. 
+ window. 
+location. 
+hash = 'review_430987029'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_430987029'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+

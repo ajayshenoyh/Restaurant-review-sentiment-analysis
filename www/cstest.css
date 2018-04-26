@@ -1,0 +1,26 @@
+html{
+  font-family: 'Roboto', sans-serif;
+  background-color: #eee;;
+}
+.first{
+  background-color: rgb(70, 130,180);
+  border-bottom: 1px solid #ddd;
+  padding: 3px;
+}
+body{
+	margin:0px;
+	padding:0px;
+}
+h1{
+	color:rgb(0,255,0);
+	font-size:45px;
+	font-weight: 300;
+	font-family: 'Oswald', sans-serif;
+	position:relative;
+	text-align:center;
+}
+li{
+	font-size:25px;
+	font-weight: 300;
+	font-family: 'Oswald', sans-serif;
+}

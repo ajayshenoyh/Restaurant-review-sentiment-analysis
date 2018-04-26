@@ -1,0 +1,210 @@
+#!C:/Python27/python
+print "Content-type:text/html\r\n\r\n"
+# -*- coding: utf-8 -*-
+"""
+basic_sentiment_analysis
+~~~~~~~~~~~~~~~~~~~~~~~~
+This module contains the code and examples described in 
+http://fjavieralba.com/basic-sentiment-analysis-with-python.html
+"""
+
+from pprint import pprint
+import nltk
+import yaml
+import sys
+import os
+import re
+import MySQLdb
+# Open database connection
+db = MySQLdb.connect("127.0.0.1","root","","dummy" )
+# prepare a cursor object using cursor() method
+cursor = db.cursor()
+sql = """CREATE TABLE HTEL (
+         HTL_NAME  CHAR(20) NOT NULL,
+         SCR INT )"""
+
+
+class Splitter(object):
+
+    def __init__(self):
+        self.nltk_splitter = nltk.data.load('tokenizers/punkt/english.pickle')
+        self.nltk_tokenizer = nltk.tokenize.TreebankWordTokenizer()
+
+    def split(self, text):
+        sentences = self.nltk_splitter.tokenize(text)
+        tokenized_sentences = [self.nltk_tokenizer.tokenize(sent) for sent in sentences]
+        return tokenized_sentences
+
+
+class POSTagger(object):
+
+    def __init__(self):
+        pass
+        
+    def pos_tag(self, sentences):
+
+        pos = [nltk.pos_tag(sentence) for sentence in sentences]
+        #adapt format
+        pos = [[(word, word, [postag]) for (word, postag) in sentence] for sentence in pos]
+        return pos
+
+class DictionaryTagger(object):
+
+    def __init__(self, dictionary_paths):
+        files = [open(path, 'r') for path in dictionary_paths]
+        dictionaries = [yaml.load(dict_file) for dict_file in files]
+        map(lambda x: x.close(), files)
+        self.dictionary = {}
+        self.max_key_size = 0
+        for curr_dict in dictionaries:
+            for key in curr_dict:
+                if key in self.dictionary:
+                    self.dictionary[key].extend(curr_dict[key])
+                else:
+                    self.dictionary[key] = curr_dict[key]
+                    self.max_key_size = max(self.max_key_size, len(key))
+
+    def tag(self, postagged_sentences):
+        return [self.tag_sentence(sentence) for sentence in postagged_sentences]
+
+    def tag_sentence(self, sentence, tag_with_lemmas=False):
+        tag_sentence = []
+        N = len(sentence)
+        if self.max_key_size == 0:
+            self.max_key_size = N
+        i = 0
+        while (i < N):
+            j = min(i + self.max_key_size, N) #avoid overflow
+            tagged = False
+            while (j > i):
+                expression_form = ' '.join([word[0] for word in sentence[i:j]]).lower()
+                expression_lemma = ' '.join([word[1] for word in sentence[i:j]]).lower()
+                if tag_with_lemmas:
+                    literal = expression_lemma
+                else:
+                    literal = expression_form
+                if literal in self.dictionary:
+                    #self.logger.debug("found: %s" % literal)
+                    is_single_token = j - i == 1
+                    original_position = i
+                    i = j
+                    taggings = [tag for tag in self.dictionary[literal]]
+                    tagged_expression = (expression_form, expression_lemma, taggings)
+                    if is_single_token: #if the tagged literal is a single token, conserve its previous taggings:
+                        original_token_tagging = sentence[original_position][2]
+                        tagged_expression[2].extend(original_token_tagging)
+                    tag_sentence.append(tagged_expression)
+                    tagged = True
+                else:
+                    j = j - 1
+            if not tagged:
+                tag_sentence.append(sentence[i])
+                i += 1
+        return tag_sentence
+
+def value_of(sentiment):
+    if sentiment == 'positive': return 1
+    if sentiment == 'negative': return -1
+    return 0
+
+def sentence_score(sentence_tokens, previous_token, acum_score):    
+    if not sentence_tokens:
+        return acum_score
+    else:
+        current_token = sentence_tokens[0]
+        tags = current_token[2]
+        token_score = sum([value_of(tag) for tag in tags])
+        if previous_token is not None:
+            previous_tags = previous_token[2]
+            if 'inc' in previous_tags:
+                token_score *= 2.0
+            elif 'dec' in previous_tags:
+                token_score /= 2.0
+            elif 'inv' in previous_tags:
+                token_score *= -1.0
+        return sentence_score(sentence_tokens[1:], current_token, acum_score + token_score)
+
+def sentiment_score(review):
+    return sum([sentence_score(sentence, None, 0.0) for sentence in review])
+if __name__ == "__main__":
+    t=[]
+    l=["b1.txt","b2.txt","b3.txt","b4.txt","b5.txt","b6.txt","b7.txt","b8.txt","b9.txt","b10.txt","b11.txt","b12.txt","b13.txt","b14.txt","b15.txt",
+       "b16.txt","b16.txt","b18.txt"]
+    for i in l:
+        text = open(i,"r")
+        score=0
+        splitter = Splitter()
+        postagger = POSTagger()
+        dicttagger = DictionaryTagger([ 'dicts\\positive.yml', 'dicts\\negetive.yml', 'dicts\\inc.yml', 'dicts\\dec.yml', 'dicts\\inv.yml'])
+        for line in text:
+            #print line
+            splitted_sentences = splitter.split(line)
+            pprint(splitted_sentences)
+            pos_tagged_sentences = postagger.pos_tag(splitted_sentences)
+            pprint(pos_tagged_sentences)
+            dict_tagged_sentences = dicttagger.tag(pos_tagged_sentences)
+            pprint(dict_tagged_sentences)
+            print("analyzing sentiment...")
+            score = score + sentiment_score(dict_tagged_sentences)
+        print(score)
+        t.append(score)
+    text.close()
+print t[0]
+sc1=t[0]
+print t[1]
+sc2=t[1]
+print t[2]
+sc3=t[2]
+print t[3]
+sc4=t[3]
+print t[4]
+sc5=t[4]
+print t[5]
+sc6=t[5]
+print t[6]
+sc7=t[6]
+print t[7]
+sc8=t[7]
+print t[8]
+sc9=t[8]
+print t[9]
+sc10=t[9]
+print t[10]
+sc11=t[10]
+print t[11]
+sc12=t[11]
+print t[12]
+sc13=t[12]
+print t[13]
+sc14=t[13]
+print t[14]
+sc15=t[14]
+print t[15]
+sc16=t[15]
+print t[16]
+sc17=t[16]
+print t[17]
+sc18=t[17]
+
+ 
+#T0 read multiple data we st0re the reqd data in a list and pass it t0 query.
+inf=[("b1",int(sc1)),("b2",int(sc2)),("b3",int(sc3)),("b4",int(sc4)),("b5",int(sc5)),("b6",int(sc6)),("b7",int(sc7)),("b8",int(sc8)),("b9",int(sc9))
+     ,("b10",int(sc10)),("b11",int(sc11)),("b12",int(sc12)),("b13",int(sc13)),("b14",int(sc14)),("b15",int(sc15)),("b16",int(sc16)),("b17",int(sc17)),("b18",int(sc18))]
+try:
+   # Execute the SQL command
+   #cursor.execute(sql)
+#this is the c0mmand t0 execute multiple inserti0ns   
+   cursor.executemany("""INSERT into room 
+                  values (%s,%s)""",inf)
+
+   results=cursor.fetchall()
+   print "Done"
+##   print results
+   # Commit your changes in the database
+   db.commit()
+except:
+   # Rollback in case there is any error
+   db.rollback()
+
+# disconnect from server
+db.close()

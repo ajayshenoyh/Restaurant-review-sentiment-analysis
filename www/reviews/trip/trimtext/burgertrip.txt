@@ -1,0 +1,1443 @@
+
+Absolutely fantastic burgers all of which can be ordered as a salad. 
+ Meat and veggies are super fresh and so are the buns. 
+
+
+Ate here yesterday with my son. 
+ who discovered this great gourmet burger place near Fullerton College. 
+ I got the daily burger (the Paris on Wednesday) and he got a regular burger. 
+ The food was wonderful - well cooked. 
+ clean presentation - and the location was clean with excellent staff. 
+ We will be going again. 
+. 
+. 
+probably on a Thursday. 
+ so I can. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_416173056'). 
+ 'review_416173056'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_416173056'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_416173056'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+We have been going to this burger place for years. 
+ Its one of the best burgers I have ever had and I actually have tried all the burgers on the OC top 10 list for years running. 
+ The staff are friendly. 
+ helpful and provide great service. 
+ Even the owner checks on you and wants honest feedback for improvements. 
+ Highly recommend. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_407460133'). 
+ 'review_407460133'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_407460133'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_407460133'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Burger Parlor is consistently my favorite hamburger. 
+ The portions are just about perfect. 
+ not too big. 
+ . 
+ not too small. 
+ The menu is not overwhelming like some other burger joints. 
+ . 
+ there is enough variety that you can find something you will like. 
+ the ingredients all taste very fresh. 
+
+My favorite is actually no longer on the menu: the Lasorda. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_402500482'). 
+ 'review_402500482'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_402500482'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_402500482'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+We stopped here for dinner one night thinking it would be only a burger place. 
+ . 
+ they had so much more. 
+ The salads were great. 
+ the sweet potato fries and homemade ketchup (. 
+. 
+. 
+. 
+) were delicious. 
+ and the shakes were amazing. 
+ The staff was super friendly and helped us decide what we wanted. 
+ Would definitely visit again. 
+
+
+This was recommended by a friend on a Wed's Eve. 
+
+Very tasty burgers and crispy hot fries. 
+ Love the fact you can taste the beers before ordering. 
+
+Liked very much the vibe. 
+ location and waitstaff that was highly attentive. 
+ This is a walk up and order place with food brought to you. 
+ Very clean on inside and there is an. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_392708868'). 
+ 'review_392708868'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_392708868'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_392708868'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+I really enjoyed dining at this place. 
+ Absolutely loved the burger. 
+ Patty very juicy and fresh. 
+ All ingredients are top quality. 
+
+
+Heard about this place from a friend and decided to try it. 
+ We LOVED it. 
+. 
+ The burger was so good. 
+ My husband and I usually share one. 
+ . 
+ this time got our own. 
+ I thought I would feel too full -- . 
+ it was just the right size. 
+ Also love the fact that the beef is organic. 
+ We live closer. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_375841872'). 
+ 'review_375841872'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_375841872'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_375841872'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+In an article in the OC Weekly (a local publication focusing on all things Orange County). 
+ Burger Parlor was at the top of the list of “Ten Essential Fullerton Restaurants. 
+” and it’s easy to see why. 
+ These are not just good greasy burgers that they serve here. 
+ they are artfully crafted. 
+ well thought-out and very well executed burgers that definitely. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_371292005'). 
+ 'review_371292005'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_371292005'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_371292005'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+The burgers are amazing. 
+. 
+. 
+ Though too big. 
+ My only wish is that guest wouldn't be limited to just the selections on menu. 
+ . 
+ have more of a build your own burger. 
+ Oh. 
+. 
+. 
+. 
+ The beer battered onion rings are worth the trip. 
+. 
+. 
+
+
+Family favorite for our crew. 
+ Burgers are amazing and the different options of fries. 
+ rings. 
+ etc are on point. 
+ We occasionally splurge and grab a Shake or Malt--To die for. 
+ Lastly they have a good selection of Craft beers. 
+ Grab a window seat and check out whats going on up and down Harbor. 
+. 
+. 
+theres always a lot of people watching to. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_345884894'). 
+ 'review_345884894'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_345884894'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_345884894'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+one of the best tasting burgers i've had in years. 
+. 
+. 
+. 
+a few caveats however. 
+. 
+. 
+one. 
+. 
+the size of the portions are tiny. 
+. 
+akin to an in and out burger. 
+. 
+. 
+thye meat is better for sure. 
+. 
+. 
+tastier?. 
+. 
+maybe a little. 
+. 
+maybe not. 
+. 
+. 
+the big problem cones in at the price. 
+. 
+in and out is about 2 bucks for a burger. 
+. 
+here it is 8. 
+25 to 11. 
+25 or more . 
+. 
+. 
+yes you heard me. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_332570164'). 
+ 'review_332570164'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_332570164'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_332570164'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+The burgers here are truly gourmet at a good value. 
+ Try the split of fries and onion rings. 
+ delicious. 
+
+
+Decent food . 
+ way too pricey. 
+ It is a downtown location - so the walk~ability factor is high and the vibe inside the restaurant is okay. 
+ I am just old school I guess. 
+ I don't like paying eighty bucks for a burger lunch for four - with shared sides. 
+
+
+I start salivating as I even drive by the Burger Parlor. 
+ Burgers cooked to order (I like medium rare). 
+ Juicy. 
+ good buns. 
+ and great fries. 
+ They also have chicken and turkey burgers. 
+ . 
+ I always get the blue cheese burger. 
+
+
+Pricey . 
+ excellent. 
+ Great beer. 
+ burgers. 
+ and onion rings. 
+ Worth checking out. 
+ . 
+ be ready to spend about $40 on two burgers. 
+ two beers. 
+ and a side. 
+
+
+I have eaten at the Burger Parlor twice. 
+ I got the vegetarian beet burger the first time and the fried portabello burger the second time. 
+ Our table also ordered onion rings. 
+ sweet potato fries and french fries with cheese. 
+ Everything was good . 
+ I felt like there wasn't many healthy choices. 
+ My husband loved eating here. 
+ he liked that they. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_282744005'). 
+ 'review_282744005'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_282744005'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_282744005'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+The burgers are just average and very small. 
+ For basically a fast food place the prices are way out of line. 
+ You can get a burger fries and coke for less at a very nice sit down restaurant and the burger would be bigger and better
+
+Opened in 2012. 
+ this downtown Fullerton restaurant is located next to the Night Owl coffee house. 
+ We came here on Memorial Day. 
+ and I had the Parlor burger. 
+ which they claim is the In n Out double double on steroids. 
+ It was a good burger. 
+ . 
+ not for the price. 
+ I'd much rather go to the actual In n Out. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_277560401'). 
+ 'review_277560401'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_277560401'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_277560401'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+I love hamburgers and this place knows how to do them. 
+ I always go for the classic nothing . 
+ lettuce. 
+ tomato. 
+ sliced onion and cheese. 
+ Sliced dills are o. 
+k. 
+ too. 
+ They serve the burger on a great bun. 
+ You actually run out of bun before burger. 
+ Burger Parlor has several more exotic choices for the adventurous sorts. 
+ They serve fries. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_276286822'). 
+ 'review_276286822'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_276286822'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_276286822'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+I can't tell you how happy I was to find this place. 
+ I decided to drive down Harbor to ensure I didn't get lost (I am from out of town) and came upon this gem. 
+ I had the Kali it was juicy. 
+ fresh. 
+ tons of flavor and messy (in a good way. 
+). 
+ The fries were done just right and one. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_271409293'). 
+ 'review_271409293'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_271409293'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_271409293'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Great food. 
+. 
+ Friendly staff and very clean place. 
+. 
+ We go there twice a month. 
+. 
+ As I am writing this my mouth is watering for a burger and a craft beer. 
+. 
+
+
+While you can get all sorts of gourmet burgers here and this is a nice change from the fast food chains. 
+ I enjoy a simple In-n-Out just as much (. 
+ not more) than here. 
+ However. 
+ the onion rings are by far the best I have ever tasted. 
+ While I wouldn't make a special trip of any great distance for their. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_260231220'). 
+ 'review_260231220'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_260231220'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_260231220'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Casual. 
+ . 
+ gourmet hamburgers. 
+ Good sides. 
+ shakes and beer too. 
+ Can't beat it for a casual stop with friends or family. 
+ Friendly staff. 
+
+
+I really wanted to like this burger more than I did. 
+ As we stood in line reading all of the signs on the wall praising the burger parlor for having the number one burger in Orange County my expectations were high. 
+ Because I only put ketchup and tomatoes on my burgers the taste of the meat and bun is very. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_253889930'). 
+ 'review_253889930'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_253889930'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_253889930'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Came here on a Tuesday for lunch. 
+ crowded . 
+ the line to order went fast. 
+ Ordered the Danish Blue burger with fries. 
+ and a beer. 
+ Nice selection of beers on tap. 
+ had a sculpin IPA. 
+ The burger was moist and so tasty. 
+ The fries were fresh and some of the best I've had out. 
+ Not cheap at close to $20. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_253887387'). 
+ 'review_253887387'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_253887387'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_253887387'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+The Burger Parlor run by &quot. 
+Chef Joseph Mahon&quot. 
+ (this guy knows what he is doing. 
+) is situated in the south end of Downtown Fullerton at 204 N Harbor Boulevard. 
+ They are open from 11 AM until 10 PM. 
+
+These 100% hormone free. 
+ Omaha Angus Beef blends of protein Burgers. 
+ come with freshly sliced tomatoes and onions and whatever else you. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_249358172'). 
+ 'review_249358172'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_249358172'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_249358172'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+this is a great addition to an already amazing group of downtown Fullerton restaurants. 
+ All of the burgers and the fries are amazing
+
+Wonderful place and great food. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ Downtown Fullerton is lots of fun and this place is a fabulous addtion to the city. 
+ Staff is kind and helpful. 
+
+
+This place is great. 
+ I love the Kali Burger . 
+ seriously. 
+any choice you make is a good one. 
+ It's a busy place . 
+ the service is great and pretty quick for the amount of business they do. 
+ Good beer selection. 
+ too. 
+
+
+Discovered this gem by accident. 
+ and absolutely loved the burger. 
+ This is not a fancy dinning establishment. 
+ . 
+ it is a great causal place to get a really great gourmet style burger. 
+ The staff was very friendly and helpful. 
+ I cannot wait to go back on Thursday and try the Lamb Burger special. 
+
+
+While trying to decide where to eat we figured since this place is packed we might as well try it. 
+
+A bit overpriced for the serving size. 
+ Food was great and service was excellent. 
+
+Stay away from the Nashville burger unless you want to be in a meat coma. 
+
+
+Friendly people. 
+ great burgers. 
+ TV's to watch games. 
+ Clean and great shakes. 
+. 
+. 
+ what more can you ask for. 
+
+
+Went here for lunch on business trip and would say was one of my top ten burgers I have ever eaten. 
+ I love their buns which is like a sweet bread and the toppings for the burgers so good. 
+ Would love to eat here again if I am in the area again. 
+ Try it folks you will enjoy. 
+
+
+Let me say that the service at this places de me feel very welcomed. 
+ The atmosphere was fine. 
+ The outside patio was next to a coffee house. 
+ so it was pretty lively. 
+ The food. 
+ was basic. 
+ The fish and chip burger had no flavor. 
+ The fries were good. 
+ . 
+ the side sauces missed crucial flavors. 
+
+
+The special of the day was a burger with mushrooms. 
+ bree cheese and mustard. 
+ I shared this with my wife along with my parlor burger and both were yummy. 
+
+My daughter ordered a grilled cheese which was on a bun and so. 
+so. 
+
+The place has great atmosphere with the big windows open to downtown Fullerton and the old brick structure. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_169531880'). 
+ 'review_169531880'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_169531880'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_169531880'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+We went to Burger Parlor on June 29. 
+ 2013 after hearing about this restaurant in AAA magazine as well as reading in OC Weekly that it is #1 for burgers in Orange County. 
+ I ordered the Smokey burger and added avocado. 
+ My husband ordered the Portland which is a burger without meat. 
+ His had the Portobello mushroom and fried mozzarella. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_165671364'). 
+ 'review_165671364'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_165671364'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_165671364'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+My First Visit To This Popular 'Fast Casual' Restaurant Just A Stone-Throw Away From The Fullerton AT&T Office Where I Was Hired 13 Years Ago. 
+ I Came In To Watch The NBA Finals Game 7 and I Ordered Their &quot. 
+Smokey&quot. 
+ Bacon Cheeseburger (Hold The Veggies) - The Chipotle Aioli Dressing Was A Knockout and Just Look At The Picture Below. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_164655301'). 
+ 'review_164655301'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_164655301'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_164655301'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+My mom and I visited for lunch a couple of weeks ago and had a great lunch. 
+ The Smokey burger was to die for and the fries were wonderful as well. 
+ The service was very friendly and we got our food pretty quickly. 
+ I'd love to try the Animal Fries next time I'm in. 
+
+
+My husband and I had just attended an organ concert at Plummer Auditorium in Fullerton and were looking for a good place to eat. 
+ We stumbled across Burger Parlor and boy are we glad we did. 
+ We ordered the Original Burger. 
+ It was one of the better burgers I've ever had. 
+ Not only was the burger juicy and perfectly medium. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_150416605'). 
+ 'review_150416605'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_150416605'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_150416605'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+We have been visiting here a lot lately. 
+ I love the buns (like in-n-out. 
+ . 
+ bigger. 
+). 
+ and the fries (try the homemade ketchup. 
+). 
+ I hope that they get a lot of support and stay in business. 
+ The way the store is set up is super fun. 
+ bright lights. 
+ neat design. 
+
+I recommend the Parlor Burger- it's a classic. 
+ . 
+ so. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_150409915'). 
+ 'review_150409915'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_150409915'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_150409915'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+We have been to the Burger Parlor several times and it has never disappointed us. 
+ They have an excellent veggie &quot. 
+burger&quot. 
+ with cheese and beets. 
+ Very unique and tasty. 
+ We have also tried their beef selections and found them to be tasty too. 
+ They fresh grind their beef every day. 
+ The burgers are tender and juicy. 
+ The toppings are fun. 
+. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_150396992'). 
+ 'review_150396992'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_150396992'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_150396992'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+

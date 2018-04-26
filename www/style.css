@@ -1,0 +1,102 @@
+html{
+  font-family: 'Roboto', sans-serif;
+  color: #404040;
+  background-color: #eee;
+}
+body{
+	margin:0px;
+	padding:0px;
+	
+}
+img{
+	 max-width:50%;
+	 position:relative;
+	 z-index:-1;
+}
+h1{
+	color:rgb(0,255,0);
+	font-size:45px;
+	font-weight: 300;
+	font-family: 'Monotype Corsiva', sans-serif;
+	position:relative;
+	text-align:center;
+}
+.first{
+  background-color: rgb(70, 130,180);
+  border-bottom: 1px solid #ddd;
+  padding: 3px;
+}
+.Buttons{
+	margin-left:350px;
+	margin-right:70px;
+}
+.Image{
+	margin-left:300px;
+	max-width:100%;
+}
+.Aspects{
+	position:absolute;
+	top:180px;
+	left:60px;
+	white-space:pre;
+    
+
+}
+input[type=submit]
+{
+	width: 100%;
+    padding: 12px 40px;
+	margin-top:10px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+	font-family:'georgia';
+	font-size:15px;
+	color:deeppink;
+	border-radius:25px;
+	font-weight:bold;
+}
+
+#b1,#b2{
+	display:inline-block;
+	padding: 15px ,32px;
+	border-radius:25px;
+	top:470px;
+	
+	
+}
+label{
+color:deeppink;
+font-size:15px;
+font-weight:bold;
+font-family: 'Oswald', sans-serif;
+text-align:center;
+}
+#b3{
+    padding: 12px 55px;
+    box-sizing: border-box;
+	border-radius:25px;
+	position:absolute;
+	top:470px;
+	margin-left:60px;
+	margin-right:60px;
+}
+input[type="radio"] {
+    padding: 2px 2px;
+	margin-top:0px;
+    margin-bottom:5px;
+	font-family:'Courier';
+	font-size:20px;
+	
+}
+
+h3{
+font-family:'Buxton Sketch',sans-serif;
+font-size:80px;
+color:#FF0000;
+}
+li{
+font-family:'Comic Sans MS',sans-serif;
+color:#800000;
+font-size:20px;
+
+}

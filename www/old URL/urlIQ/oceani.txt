@@ -1,0 +1,553 @@
+<div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2284406" itemprop="reviewBody">I had visited this hotel with my family. The overall, experience of the hotel was good. The transportation facility was not provided by the hotel. I had booked room at the hotel by online.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2336935" itemprop="reviewBody">I didn’t taste food from the hotel. Behaviour of the staff’s was friendly. I had booked this room by online. I had visited this hotel for official purpose. Room was spacious with clean. The hotel was located centrally.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent1947826" itemprop="reviewBody">I had visited this hotel for business purpose. I had booked the room by online. AC was provided in the room. The restaurant was available in the hotel. The hotel had provided complimentary breakfast. The breakfast was good in the hotel.  </p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2212468" itemprop="reviewBody">The overall service was very nice in the hotel. The hotel was located in the city. The ambiance of the hotel was good. The check-in and check-out was on time. Wi-Fi service was available in the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2180403" itemprop="reviewBody">The hotel was located in the city. There was no delay in check in and checkout. The allotted room was spacious with clean. The appearance of the hotel was nice. The service of the hotel was nice. I was satisfied with this hotel stay. All amenities were available in working condition. The Wi-Fi facility was provided by the hotel. The food quality was good in the hotel. The activities were not arranged by the hotel. I had visited this hotel with my family.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2137703" itemprop="reviewBody">It was a nice hotel. The food price was very expensive in the hotel. The room was nice in the hotel. The service was very good in the hotel. The restaurant was available in the hotel. The activity was arranged by the hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2047417" itemprop="reviewBody">Everything was very good in the hotel. The room provided by the hotel was neat and clean. All amenities were available in the room. The food and drinks were available in the hotel was good.</p>
+</div><div class="detail-posted-txt">
+<p id="moreReviewContent2027837" itemprop="reviewBody">Bus stand was nearby the hotel. The appearance of the hotel was wonderful. The booking front office was good. Everything was awesome in this hotel. The variety in food was provided in the hotel. The activity was arranged at the hotel. The food was expensive. I had visited this hotel for business trip with group. I would recommend this hotel for upcoming travellers. I don't have any suggestion for this hotel.</p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1355239">
+                    I visited this hotel recently. I was very happy with their hospitality towards the customers. I really liked lot. The price is affordable. Well equipped furnished rooms & feel like you are in other countries. Restaurant food also very good. Totally I felt very nice.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent957199">
+                    I was here for a business trip for three days from 24th - 26th March, 2015. The overall experience was great and the pricing is pretty decent compared to the quality of service. Overall it was a great deal.
+
+The rooms are equipped with central AC's, electronic safe and TV's. The beds and furniture in the rooms were lavish and very comfortable. The WiFi connection was very fast and reliable.
+
+The staff was very courteous and helpful. I was really amazed by the quality and punctuality of the housekeeping service. There are couple of restaurants serving a wide variety of cuisine and the fide was really amazing, though it was a bit spicy than what we would normally expect. The prices in the restaurant are very reasonable too.
+
+The hotel is located in a very prime location with close access to Malls and other shopping areas. Overall it is situated in a calm and peaceful location and I would definitely recommend this hotel for business trips.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1377302">
+                    Ocean pearl is situated in the heart of the city in Mangalore. I had a wonderful experience of staying for a week in this hotel. They had a great service in the hotel especially all types of food with affordable price. They had all facilities inside the hotel including swimming pool, gym. Really awesome for some amount of money. Famous one in mangalore. I really enjoyed with my friend. There is enough space for parking too and really enjoyed staying here. Better one to suggest and choose.
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent389136">
+                    Overall very kind and courteous.. Staff were co-operative and prompt on their room services. Lunch and Dining facilities were excellent at very affordable prices. In all will recommend all my friends and contacts to your esteemed Hotel.
+Ocean Pearl is ideally located very close to the main railway station Mangalore Central which which is less than a kilometer. The weather along with the tourism and site seeing attracts a lot of visitors all over India not excluding foreign tourism which is quite fast developing. Mangalore is also famous for its various temples and shrines where people from different religions pay a pilgrimage visits.
+Overall managlore is now one of the fastest developing cities in Undia which is a centre of attraction for Medical and Educational facilities in India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </p>
+</div><div class="detail-posted-txt">
+<p id="lessReviewContent1363310">
+                    I visited South India for vacations and stayed here for a week. They provided best quality food I had in south India. Their maharaja thali was great even though they were very small. The taste and service was great. There was problem with wifi I guess but other services were good and they have good parking facility. I would like to recommend others to stay here and also visit Barbecue Nation.
+                </p>
+</div><div class="detail-posted-txt">
+<div id="lessQuickSummary73790">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahagan....</div>
+<div id="moreQuickSummary73790" style="display:none;">The Ocean Pearl is located at Navabharath Circle. The luxury hotel is 14 km from Mangalore Airport and 2 km from Mangalore Central Railway Station. The Ocean Pearl is nearby various tourist spots and beaches of Mangalore. The important places in and around The Ocean Pearl are Mangala Devi Temple, Kadri Manjunatha Temple, Jogi Mutt at Kadri, Mahaganapathi Temple Sharavu, Gokarnath Temple, Maariyamma Temple at Urva, St. Aloysius Chapel and Museum, Sulthan Battery, Ullal and Surathkal.</div>
+<a class="hotel-overview-btn" data-action="Hotel Overview viewed" href="javascript:void(0);" id="rrm73790" onclick="showMoreOrLess('73790', 'lessQuickSummary', 'moreQuickSummary', 'rrm')">Read More</a>
+</div>

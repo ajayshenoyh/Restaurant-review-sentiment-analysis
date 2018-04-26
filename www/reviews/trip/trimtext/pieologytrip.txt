@@ -1,0 +1,446 @@
+
+I love Piology. 
+ I love the concept. 
+ and they do a great job getting all of the requested ingredients on that pizza dough. 
+ I have always gone with the pick-from-the-ingredients kind of pizza and not from the menu pizzas. 
+ and I find that one pizza is enough to share. 
+ I have seen others put away a whole pizza on their. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_437290093'). 
+ 'review_437290093'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_437290093'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_437290093'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Looking for somewhere new to eat. 
+ so we thought we'd try Pieology. 
+ The staff was friendly and helpful. 
+ The pizza was great. 
+ you get to choose whatever you want. 
+ and the results are amazing. 
+ I've told as many people as I can about this place. 
+ Go there. 
+
+
+Love being able to select EVERYTHING on you pie for the same price. 
+ From the type of sauce to anything for toppings. 
+ Mix & match. 
+ type of crust. 
+ 5 types of sauce which can be mixed. 
+ Don't like the open industrial building. 
+ makes it TOO loud. 
+ Usually 1 pie will make 2 meals. 
+ EXTREMELY fast service. 
+
+
+What a great concept and such fun. 
+ plus I made a great pizza. 
+ How can you not like a place where you build you own pizza and they have everything that you could possibly want on a pizza. 
+ Great service. 
+ clean restaurant. 
+ and fun. 
+ As you que up in line. 
+ all of your choices are right there before you get. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_342106723'). 
+ 'review_342106723'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_342106723'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_342106723'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Have enjoyed this. 
+ its just good thin crush fresh pizza. 
+ You go through the line choose what you want from sauce to cheese to veggies and meats. 
+ It is just good. 
+
+
+I was hesitant to go to Pieology. 
+ Lakewood due to some previous poor reviews. 
+ But I was invited with friends. 
+and was thrilled to enjoy a clean restaurant. 
+ ac working fine in 100 degree weather. 
+ and friendly help for a first timer in making my pizza. 
+ Prices are very reasonable. 
+ and I will return often. 
+ I had the wheat crust. 
+ with. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_308591489'). 
+ 'review_308591489'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_308591489'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_308591489'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+This place is by far the best new pizzeria in town. 
+ At times it can be crowded . 
+ WELL WORTH THE WAIT. 
+ Heres the skinny: 11. 
+5&quot. 
+ pizza (size of a dinner plate). 
+ unlimited toppings (including gourmet ones like artichoke. 
+ bbq chicken. 
+ etc) you pick your pizza crust. 
+ sauces and all topping all for a great price of $8. 
+95. 
+ Now. 
+ I. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_306034558'). 
+ 'review_306034558'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_306034558'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_306034558'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+You design your own pizza. 
+ selecting from dozens of cheeses. 
+ veggies. 
+ and meats. 
+ It's all 1 price so you can pile it on. 
+ Take out or eat in. 
+ free refills on the drinks. 
+
+
+When you're in the mood for good individual pizzas. 
+ pieology is the place. 
+ The concept is awesome and the pizzas are actually good. 
+ Not the best deal when feeding a large family. 
+ . 
+ awesome for lunch. 
+
+
+this is one of those build it yourself pizza places. 
+ It's designed to provide an individual size pizza with made to order toppings. 
+ Had a little trouble understanding the concept because I'm used to being charged for each topping. 
+ Here it's unlimited toppings for veggies. 
+ meats. 
+ and others. 
+ Doesn't take long to get the pizza made and cooked easy for. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_256626748'). 
+ 'review_256626748'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_256626748'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_256626748'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+It seemed like no matter what you ordered. 
+ the price was the same for all pizzas. 
+ Many kinds to try. 
+ or make your own. 
+ Our party did two standards. 
+ and two create your owns. 
+ The pie crusts are just larger than and individual size. 
+ are tasty. 
+ and amply stacked with ingredients. 
+ The buffalo chicken pizza has a spicy buffalo sauce. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_239744936'). 
+ 'review_239744936'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_239744936'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_239744936'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+
+
+Thought I'd give this a shot since I got a coupon in the mail. 
+ and it was close to my work. 
+
+I called ahead to order. 
+ . 
+ they said they didn't take orders over the phone. 
+ I hesitated. 
+ . 
+ still had plenty of time for lunch. 
+ so I decided to still give it a try. 
+
+The store is set up. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_206857064'). 
+ 'review_206857064'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_206857064'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_206857064'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+

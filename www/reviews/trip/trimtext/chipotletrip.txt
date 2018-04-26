@@ -1,0 +1,64 @@
+
+Three hard shell taco's every time. 
+ never fail me. 
+ I love Chipotle. 
+ just wish I could afford them a little easier. 
+ And the line is a pain in the ___ every day. 
+ . 
+ it's good. 
+. 
+
+
+Even though not being a big fan of mexican food. 
+ I really enjoyed my meal here. 
+ Thanks to all the amazing staff working there because they were really nice and helpful with everything I asked them (It was my very first time in a Chipotle restaurant and I didn't know how it worked. 
+. 
+. 
+so I was asking silly questions all the. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_359425333'). 
+ 'review_359425333'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_359425333'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_359425333'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+

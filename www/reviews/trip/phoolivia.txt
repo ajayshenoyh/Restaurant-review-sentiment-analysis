@@ -1,0 +1,60 @@
+<p class="partial_entry">
+We have been coming here for a few years. The pho is the best in the area! The service is fantastic, always friendly and the kind of place that remembers your order from your previous visit.
+Also, if your not in the mood for pho, the garlic noodles and chicken is amazing. I love this dish.
+</p><p class="partial_entry">
+A lot of Vietnamese have settled in Orange Country in recent years, and the proliferation of Pho restaurants is one of the many benefits. And it's hard to imagine a nicer one than Olivia. The broth was scrumptious, the veggies fresh. (The vegetarian Pho was quite nice.) Attentive service. And great value too!
+</p><p class="partial_entry">
+I ate in this place and the experience was really good.
+The Pho soup I order was really amazing, fresh ingredientes, great flavor and big portion.
+The prices are really good and they have many options in their menu.
+The service is very quick and kind.
+The place is located in a small shopping center so it has free parking.
+</p><p class="partial_entry">
+Great place to get PHO! Went here last month, I've been to at least 100 different pho restaurants and rank this one top 5! They were pretty busy, but the service i received was superb. Spring rolls tasted fresh, not that refrigerated pre-made crap. If your looking for a place with fresh ingredients, great food, prompt service go here!
+</p><p class="partial_entry">
+We stopped in for take-away the other night as I didn't want a lot for dinner, and this restaurant was fairly close to our hotel. It was Friday evening, and the restaurant wasn't overly busy, but they had quite a few customers. Staff promptly greeted me and handed me a menu when I stated I wanted take-away. As soon as...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr152304209 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_152304209'), 'review_152304209', '1', 4444);; window.location.hash = 'review_152304209'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_152304209'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+This restaurant has the best pho I have ever had. The Pho here does not have MSG and the meat is fillet mignon!
+We started with the spring rolls. They are really fresh. The sauce is amazing! Then we got yummy garlic fried chicken. We both agreed that this dish is one of the restaurant's signatures. Our main dishes were...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr145428361 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_145428361'), 'review_145428361', '1', 4444);; window.location.hash = 'review_145428361'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_145428361'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+The eggrolls and Pho are amazing here. Prices are great, especially during the lunch special hours. The atmosphere is much nicer here compared to many Pho restaurants.
+</p><p class="partial_entry">
+What was once a record store in a quiet shopping center has been transformed into an upscale dining experience with high ceilings and an inviting decor. My family has tried this restaurant twice this December and have been pleased with the decor, quality and service.
+Last night was our second visit. My son and I had the Phở tái chín,...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr122327148 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_122327148'), 'review_122327148', '1', 4444);; window.location.hash = 'review_122327148'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_122327148'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p>

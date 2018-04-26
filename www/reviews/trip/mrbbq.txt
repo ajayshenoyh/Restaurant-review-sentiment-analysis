@@ -1,0 +1,370 @@
+<p class="partial_entry">
+My son went back to school today, but wanted to visit his favorite place before he left. Our server was Evelyn, and she was on point. We have been visiting Mr. BBQ for over a year, the food is always good, but service is either hit or miss.....Today service and food was direct hit! So thanks for a bitter sweet...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr440437443 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_440437443'), 'review_440437443', '1', 4444);; window.location.hash = 'review_440437443'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_440437443'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Came for my daughters Birthday Party after seeing the great reviews on Yelp. Had to wait approximately an hour to get in the door (not to bad). They do not take reservations. However, if you can, stop by here and hour early, put your name on the list, and come back...This restaurant is not vey big, and was packed when...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr433367616 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_433367616'), 'review_433367616', '1', 4444);; window.location.hash = 'review_433367616'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_433367616'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Great food, but be prepared for an extremely long wait to get a table. Also dress in comfortable clothes for 2 reasons - 1) if you do it right you'll be absolutely stuffed, and 2) it is always very warm in the restaurant.
+</p><p class="partial_entry">
+My coworker suggested I go here while in town and I'm glad she did. The food was SO good. We mainly got the bulgogi and tried some other stuff I don't remember, but they were good too. You get free ice cream at the end so that's a nice touch. I didn't like all the clanking from the workers cleaning...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr406441296 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_406441296'), 'review_406441296', '1', 4444);; window.location.hash = 'review_406441296'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_406441296'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+We weren't sure we were gonna be able to fit Mr. BBQ into our schedule, suffice to say that we're glad we did. We opted for a weekday lunch at this AYCE (all you can eat) figuring it would not be as busy and that we would avoid a too-long wait plus one in our party would not be able...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr405847847 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_405847847'), 'review_405847847', '1', 4444);; window.location.hash = 'review_405847847'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_405847847'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Lots of sides to choose from.
+Consistently good.
+Wonderful service.
+A small scoop of ice cream at the end the meal.
+</p><p class="partial_entry">
+We have visited this place 3 times in just a couple of months. Our family enjoyed it so much. The staffs are very friendly. So many choices of food. The price is right.
+</p><p class="partial_entry">
+We picked this place because we had a Korean student traveling with us. She hadn't eaten a 'home- cooked' meal since studying in the US for several months. She was overjoyed with our great find! We were all loving the great food, indeed! I think we finally rolled out of the restaurant two hours later. TIP...get there early. I don't...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr381644122 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_381644122'), 'review_381644122', '1', 4444);; window.location.hash = 'review_381644122'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_381644122'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Came on a Friday evening around 5:30pm, and it was around a 30 minute wait. We got the $23.99 dinner All You Can Eat.
+This place apparently only has tables of 6, so the two of use were confused when we got to a table of 6, but the waiter said it was alright. Started off with Brisket and pork...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr376921191 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_376921191'), 'review_376921191', '1', 4444);; window.location.hash = 'review_376921191'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_376921191'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Tried on a whim. So glad our other place was closed for remodel. Service attentive and hospitable. So many choices. Kimchi varieties great , my favorite the cucumber. Ate beef tongue for first time. Not bad. Good portion, fair price. Totally coming back. I'm so full I will have to walk dogs again tonight. Yummy
+</p><p class="partial_entry">
+We had dinner for my 50th birthday celebration and we were all amazed with the service from the staff, the food were awesomely delicious. They sang and danced as the staff sing a happy birthday song. Will come back soon and extremely highly recommended. The wait was long but definitely worth it. You will not regret.
+</p><p class="partial_entry">
+Mr. BBQ-Well so much has been said, but I had to add to it. My husband took me and our daughter here today for my belated birthday dinner at Mr. BBQ! Korean BBQ turned out to be a truly fun (and totally filling) experience. And this spot has incredible meats and seriously AMAZING waitstaff.
+The standard PAYCE on weekends is...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr361039372 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_361039372'), 'review_361039372', '1', 4444);; window.location.hash = 'review_361039372'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_361039372'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+We've been to a lot of Korean BBQs in OC. Usually the service is poor or the quality of the meat is poor or the atmosphere is poor. But not here.
+They really deserve a high national ranking. I'm not sure about #27 in the country on Yelp! But they deserve a high ranking. Is it better than Per Se?!...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr359273821 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_359273821'), 'review_359273821', '1', 4444);; window.location.hash = 'review_359273821'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_359273821'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+What a great experience. Not a cheap date, but a great meal. If you've never been to Korean BBQ before, don't be scared. The servers are excellent and will help you through those first time jitters. The food just keeps coming. Sides were delicious. Meats were even better.
+Special shout out to our server, Jenny. She was outstanding. Very helpful....
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr347075384 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_347075384'), 'review_347075384', '1', 4444);; window.location.hash = 'review_347075384'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_347075384'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Picked this place because of ratings. Yup, agree with the ratings. Excellent food , and even my picky daughter and wife eat happily. Be ready for a very long long looooog wait though. We waited for 90mins before e got a place. Wait would be difficult , but in our case was worth it. Must try at least once
+</p><p class="partial_entry">
+For a party of 4 we were told it would be 45-60 min and waited for almost 2 hours. Once we sat we took our time since we were so hungry but I enjoyed my first korean bbq experience. The food was tasty, all the sides were good. All you can eat for $22.99 is pretty darn good. We ordered...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr337405415 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_337405415'), 'review_337405415', '1', 4444);; window.location.hash = 'review_337405415'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_337405415'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+This is a super cheap bbq placed owned by Koreans. It's good and cheap meat - unlimited. But if you're looking for a &quot;korean&quot; bbq experience, this isn't the place.
+Two items that we ordered that I don't recommend are the baby squid and gopchang (small intestines).
+Definitely order the black Angus.
+</p><p class="partial_entry">
+Excellent food with a large array of pickled vegetables and numerous meats to choose from. Service is fast and friendly and prices are reasonable. Try it once and you'll want to return for more!
+</p><p class="partial_entry">
+I can only echo everything that has already been said. Amazing service, excellent food, outstanding value, etc.. etc.. etc... We had the best time at Mr BBQ and I highly recommend you check it out. Just like everyone else says, however, there typically is a wait so just plan on that happening.
+</p><p class="partial_entry">
+For about $20 per person you can get the All Your Can eat mid range menu offering. There is so much to pick from you will not go hungry. The staff is great, and the restaurant is spotless. I am giving this place 5 stars even though I am cooking my own food....because you come for the experience.
+The meats...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr324857944 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_324857944'), 'review_324857944', '1', 4444);; window.location.hash = 'review_324857944'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_324857944'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+We went to Mr. BBQ with our daughter and some friends for lunch. This was our first experience of Korean barbecue and we thoroughly enjoyed it. The quality and the variety of meats is impressive. Even when they are cooked well done, they are amazingly tender. The acompanying small salads and condiments perfectly balance the richness of the meats. The...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr320344712 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_320344712'), 'review_320344712', '1', 4444);; window.location.hash = 'review_320344712'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_320344712'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Went to Mr. BBQ since it was recommended by a local Korean resident. Wanted to do dinner originally but there's a line. So ended up going for lunch the next day. There's lunch special but we opt for the all you can eat. Love the beef belly! Bulgogi and pork ribs are good, too. They even have a special serving...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr315155451 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_315155451'), 'review_315155451', '1', 4444);; window.location.hash = 'review_315155451'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_315155451'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+My husband and I stumbled upon this restaurant while we were looking for a place to eat. We just moved to the area so don't know many restaurants. We had never had Korean BBQ before but after our experience we will definitely have it again. The service was excellent the staff is very welcoming and helpful. We had lots of...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr312240581 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_312240581'), 'review_312240581', '1', 4444);; window.location.hash = 'review_312240581'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_312240581'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Quality meats and I love all the sides that come with the BBQ, if you run out of something they are right there to bring more. No reservations - means LONG wait times for a table at busy times. Servers are great, once you get seated. Atmosphere is a bit hectic (neon lights, pop music) but makes for a fun...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr300446894 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_300446894'), 'review_300446894', '1', 4444);; window.location.hash = 'review_300446894'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_300446894'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+This is an all-you-can-eat BBQ place. That being said, the meat you get is well above the quality you get at other comparable restaurants AND they brought new ones quickly. Lot's of side dishes for you to enjoy.
+We went at around 5:00 and were able to be seated immediately, but by the time we left the lobby and outside...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr293009142 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_293009142'), 'review_293009142', '1', 4444);; window.location.hash = 'review_293009142'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_293009142'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+What a delightful dinner. The variety of the meats are incredible including 2 inch filet minion that melts in your mouth, scallops, Waygu beef, rib eye stake, spicy octopus and squid, ribs and sausages, and plenty more. We noticed the first order looked better and subsequent orders were not as attractive but the freshness and taste remained incredible. This is...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr269402968 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_269402968'), 'review_269402968', '1', 4444);; window.location.hash = 'review_269402968'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_269402968'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Cool place and very clean. I like that they give you new grill tops often since they do get dirty. Our server Mina was AWESOME. I am very picky about my meats and she helped find a meat with less fat and a texture I would like. Success! Mina found something. She made the whole experience so enjoyable. Bravo to...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr255236947 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_255236947'), 'review_255236947', '1', 4444);; window.location.hash = 'review_255236947'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_255236947'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+I finally found an AYCE KBBQ down the street from home! We arrived right before 6pm and there was no wait. Our server, Michael, was friendly, provided excellent service (changed our grill at least 5 times!) and was just all-around awesome! They have a pretty good meat selection and plenty of sides for $20.99 a person. And... they have vanilla...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr244631367 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_244631367'), 'review_244631367', '1', 4444);; window.location.hash = 'review_244631367'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_244631367'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Kang Hodong Baekjung used to be my favorite KBBQ spot but now there is a new champion. Mr BBQ has taken over for the top spot! Whether you're new to KBBQ or have been eating it your whole life, this is a place that is sure to make you a fan. They have a wide variety of meats to choose...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr237494229 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_237494229'), 'review_237494229', '1', 4444);; window.location.hash = 'review_237494229'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_237494229'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+We celebrated my wife's birthday at this restaurant and had a great time! If you've never been to a Korean BBQ place you need to try it at least once!
+They bring the marinated meats out to you and you cook it on your table with the built-in grills attached. The food smells so good while they are being cooked...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr235582293 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_235582293'), 'review_235582293', '1', 4444);; window.location.hash = 'review_235582293'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_235582293'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+4 1/2 stars, First time visit and on a Thursday for lunch. Price increased to $14.99 a person for AYCE. The interior is modern and comfy even though it was hot outside. We were seated asap and brought a bottle of filtered drinking water, banchan and salad.
+Even with the price increase there was a solid selection of beef, pork...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr233940792 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_233940792'), 'review_233940792', '1', 4444);; window.location.hash = 'review_233940792'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_233940792'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+There used to be another very average Korean restaurant here. The new owner remodeled and had a grand opening about 6 months ago. I did not look on-line for the review but decided to try it last week for a quick lunch. The meat was really fresh and service was good. We went back again yesterday as a family and...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr232970071 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_232970071'), 'review_232970071', '1', 4444);; window.location.hash = 'review_232970071'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_232970071'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+What a great treat fun and lots of different flavors of meat to try from chicken to beef, to pork and squid! Oh My!
+</p><p class="partial_entry">
+What a great way to experience Korean BBQ - The crowd was very mixed, fun, the atmosphere was hip and lively. The staff, very attentive and friendly. We went to this restaurant at about 10pm and it was still hopping with diners...I love when thy do the happy birthday celebration... Anyway - the all you can eat was only $20...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr227605508 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_227605508'), 'review_227605508', '1', 4444);; window.location.hash = 'review_227605508'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_227605508'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p>

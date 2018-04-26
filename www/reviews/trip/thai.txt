@@ -1,0 +1,174 @@
+<p class="partial_entry">
+The vegetarian menu is limited. On the menu where vegetarian food is located, it says ask about other options, so I did. The response I got was, we just have these entrees. Now why put that in your menu and not give more options. I got Fried Tofu App. The fried Tofu came out really good, the sauce that accompanied...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr403951688 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_403951688'), 'review_403951688', '1', 4444);; window.location.hash = 'review_403951688'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_403951688'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Finding a good Thai restaurant is no easy feat, especially in Fullerton. Because of this I am glad to recommend Thai Basil. The food is good and the price is even better. I have been here multiple times and find the quality of the food to be consistently good. The service is quick and you can easily order whatever degree...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr392593261 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_392593261'), 'review_392593261', '1', 4444);; window.location.hash = 'review_392593261'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_392593261'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Thai Basil had a great lunch menu. I had the lunch portion of the chicken curry with fried rice, wonton, egg rolls, and soup. It all tasted delicious. The curry tasted pretty sweet, which was new, but by the end of the dish, it had a bit of a slight burning at the back of the throat. I believe I...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr376849960 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_376849960'), 'review_376849960', '1', 4444);; window.location.hash = 'review_376849960'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_376849960'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+This restaurant is near the Cal State Fullerton campus in a bustling shopping center with many eateries. It is busy at lunch so if you have a big group it is best to call ahead. The lunch menu is varied and inexpensive but the regular menu items are very reasonable as well. You can ask for the level of hot...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr346946945 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_346946945'), 'review_346946945', '1', 4444);; window.location.hash = 'review_346946945'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_346946945'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+We needed to get in and out fast, have a place where we could conduct our business lunch, and at an affordable price. This restaurant served us well on all counts. I highly recommend going there for lunch or dinner - excellent fresh Thai food.
+</p><p class="partial_entry">
+I ate at this place twice. They are busy so there might be a little wait. Before you enter the restaurant, you can smell the great aroma near the entry. The food is so good. There are many choices of dish to choose from. It leaves you a very good after taste in your mouth for a long period of...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr310991218 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_310991218'), 'review_310991218', '1', 4444);; window.location.hash = 'review_310991218'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_310991218'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+This is the best Thai food in Orange County, they are very busy. We have eaten at the restaurant but mostly get take out. Chicken Pad Thai, simply the best. ☆☆☆☆☆☆☆☆☆☆☆☆☆
+</p><p class="partial_entry">
+I been going to Thai Basil for many years now and let me tell you I never get over eating their food! I am a Vegetarian and Thai Basil is able to modify most of all their dishes to how you like! One of my favorite dishes is the Pineapple Red Curry with Tofu, and you must try the Pineapple...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr283149511 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_283149511'), 'review_283149511', '1', 4444);; window.location.hash = 'review_283149511'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_283149511'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Thai Basil is located near Cal State Fullerton in the Smart & Final Shopping Center. It has been there for many years but I had never been there. A friend took me for lunch. We got a table right away but the restaurant was filling up fast at 11:30 a.m. on a week day. A good sign. There is a...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr272045296 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_272045296'), 'review_272045296', '1', 4444);; window.location.hash = 'review_272045296'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_272045296'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+We chose this unassuming Thai restaurant because the location was convenient, but after the wonderful meal we know we will be back. The Red Curry catfish was spot on, the Win Ton soup was complex and lovely, the chicken satay and eggplant were very good, and the brown rice and pad Thai were expertly prepared.
+</p><p class="partial_entry">
+Honestly, think its the best Thai food in Fullerton and surrounding areas!! Satay to the Tum Yong Gung soup, then the Panang and noodle dishes are very good! The service is decent, but usually pretty busy so may take some time... I really like the sauces and spices here, get an eight on the scale and its so good!
+</p><p class="partial_entry">
+Liked their mixed fried rice, one has got to try this dish...hofan satay bbq and the list goes on and on...
+</p><p class="partial_entry">
+Just when I needed comfort food, I remembered Thai Basil and their great-value, delicious-tasting fare. Quick, fresh, healthy, well-prepared and generous portions. Highly recommended!
+</p><p class="partial_entry">
+This is near my office but never had the occasion to go in. My brother had tried it and asked me if I wanted to go to lunch there, which I did. I have now been back 4 times. Great authentic Thai food. They have lunch special menu with lower prices and small portions, but perfect for lunch. They are...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr151937515 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_151937515'), 'review_151937515', '1', 4444);; window.location.hash = 'review_151937515'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_151937515'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Have been coming here for a while now. Wife and I love their food and is not too expensive. Unfortunately, sometimes the wait can be up to 15 minutes to get seated. However, we highly recommend this restaurant.
+</p><p class="partial_entry">
+My husband and I found this restaurant when looking for a place to eat near our hotel. It was very crowded on the Sunday evening we stopped in, so we thought we found a good spot. No one asked to help us/seat us as we stood inside the restaurant. We opted for take-out, so I approached the counter and placed...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr128560227 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_128560227'), 'review_128560227', '1', 4444);; window.location.hash = 'review_128560227'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_128560227'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Found this restaurant online while in CA on vacation. Interior is nicely decorated with basic Asian accents. We started with summer rolls, which were very good. The best dish we had was the pad see ew with Chicken. We could have eaten two more plates of that!
+My husband had the red curry chicken which contain a sprig of seasoning...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr116038269 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_116038269'), 'review_116038269', '1', 4444);; window.location.hash = 'review_116038269'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_116038269'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+It's no secret anymore. Everyone knows about the authentic Thai food and rich flavors. When it gets busy, the service is so-so, but it is totally worth the wait. Things that are not to be missed: Tom Kah Gai soup, spring rolls, deep fried trout with mango salad (I know. Get over it. It's great.) It is a crowd-pleaser whether...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr102383431 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_102383431'), 'review_102383431', '1', 4444);; window.location.hash = 'review_102383431'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_102383431'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Excellent food and service, but the actual restaurant is in a
+</p><p class="partial_entry">
+Slow Service, reasonable food
+</p>

@@ -1,0 +1,78 @@
+
+Good selection of local beers on tap. 
+ Fast service for our group of 20. 
+ good pizza. 
+ pleasant service. 
+
+
+The atmosphere is a little small. 
+ . 
+ the food was amazing. 
+ We got the Yankee Stadium. 
+ and the Heavyweight. 
+ 2 awesome tasting pizzas. 
+ Myself being from Chicago. 
+ tasting pizza in another state is completely different. 
+ . 
+ this one hit the spot. 
+
+
+I had the best experience at this location. 
+ The staff and manager were super nice place and I got a free &quot. 
+small&quot. 
+ Oggi's Stix just for checking in on Yelp. 
+. 
+. 
+ Score. 
+
+It was Halloween. 
+ and we wanted to watch the Ducks vs Dallas hockey game. 
+ and the place wasn't very busy (yet). 
+ So I asked if I could change the. 
+. 
+. 
+
+
+
+      flow: 'CORE_COMBINED'. 
+
+      pid: 39415. 
+
+      onSuccess: function() { ta. 
+util. 
+cookie. 
+setPIDCookie(4444). 
+ ta. 
+call('ta. 
+servlet. 
+Reviews. 
+expandReviews'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_240423572'). 
+ 'review_240423572'. 
+ '1'. 
+ 4444). 
+. 
+ window. 
+location. 
+hash = 'review_240423572'. 
+ }
+    }. 
+
+    ta. 
+call('ta. 
+registration. 
+RegOverlay. 
+show'. 
+ {type: 'dummy'}. 
+ ta. 
+id('review_240423572'). 
+ options). 
+
+    return false. 
+
+  ">
+More  
+
+

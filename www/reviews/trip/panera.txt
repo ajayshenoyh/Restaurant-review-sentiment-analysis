@@ -1,0 +1,56 @@
+<p class="partial_entry">
+What a messy place.... from the kitchen, to the dining room, including the restroom. Food is like all other locations and tasted fine. Took food to go so didn't have to eat in this environment.
+</p><p class="partial_entry">
+we prefer the 1/2 sandwich and soup specials. Each sandwich is top quality and the soups are all first rate. even get a fruit or bread with the combo.
+</p><p class="partial_entry">
+Have been to several different locations. Always busy, Service is always good. Food is always fresh and the workers are always willing to correct any problem you might encounter.
+</p><p class="partial_entry">
+This Panera is usually filled with students, so finding a table can be hard. I am guessing they stay here in between classes, mooch off the wifi, and get a cheap bite to eat.
+The food is ok. Its sandwich, salads, and soups. They say their soups are homemade yet it tastes like progresso or campbells... tad salty, and not...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr195611886 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_195611886'), 'review_195611886', '1', 4444);; window.location.hash = 'review_195611886'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_195611886'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Not only is their food fresh and fast but it has WiFi. It's a great hang out and no one bothers them. I love all their items and it is always hard to decide what I want.
+</p><p class="partial_entry">
+I have actually stopped buying bread and bagels at the store and now buy them fresh at Panera. The quality is so much better and the cost is about the same.
+</p><p class="partial_entry">
+I love love love Panera breads, the sandwiches are great but the salads are amazing. They don't make it any better than at Panera's
+</p><p class="partial_entry">
+Stopped here after Disneyland. Good variety of sandwiches. Husband loved their turkey sandwich and it came with a side salad.
+</p><p class="partial_entry">
+Was in town for business.
+My client got us tickets to see a Cal State Fullerton baseball game and brought us by for a pre-game bit to eat (stadium food was so-so).
+You order at the counter in this restaurant. Menu is on big boards mounted on wall behind cashier. Great selection of soups, salads, and sandwiches. No problem with...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr127518471 moreLink ulBlueLinks" onclick="          var options = {
+      flow: 'CORE_COMBINED',
+      pid: 39415,
+      onSuccess: function() { ta.util.cookie.setPIDCookie(4444); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_127518471'), 'review_127518471', '1', 4444);; window.location.hash = 'review_127518471'; }
+    };
+    ta.call('ta.registration.RegOverlay.show', {type: 'dummy'}, ta.id('review_127518471'), options);
+    return false;
+  ">
+More  </span>
+<span class="ui_icon caret-down"></span>
+</span>
+</p><p class="partial_entry">
+Chicken caeser salad FTW! They block you from the internet between 5-7pm, though, which is kind of weird.
+</p><p class="partial_entry">
+I like Panera's soup,salad and especially the chicken salad or turkey sandwiches
+</p><p class="partial_entry">
+Delicious every time. Very friendly staff. Free WiFi. Great soups, salads and sandwiches. Check it out!
+</p><p class="partial_entry">
+Great bread and fantastic brocolli cheddar soup
+</p><p class="partial_entry">
+It's OK, but when you get down to it, it's just a sandwich.
+</p>

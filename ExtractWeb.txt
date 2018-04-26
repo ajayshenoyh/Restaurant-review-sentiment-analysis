@@ -1,0 +1,3704 @@
+#!C:/Python27/python
+print "Content-type:text/html\r\n\r\n"
+import nltk
+from nltk.stem import *
+from nltk.corpus import sentiwordnet as swn
+import re
+import urllib2
+from bs4 import BeautifulSoup
+
+
+f1=open("poon_url.txt","r") #TRIP ADVISOR
+f2=open("poon.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("moti_url.txt","r") #TRIP ADVISOR
+f2=open("moti.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("deepa_url.txt","r") #TRIP ADVISOR
+f2=open("deepa.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("ocean_url.txt","r") #TRIP ADVISOR
+f2=open("ocean.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("prestige_url.txt","r") #TRIP ADVISOR
+f2=open("prest.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("gate_url.txt","r") #TRIP ADVISOR
+f2=open("gate.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("mang_url.txt","r") #TRIP ADVISOR
+f2=open("mang.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("gold_url.txt","r") #TRIP ADVISOR
+f2=open("gold.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("udupi_url.txt","r") #TRIP ADVISOR
+f2=open("udupi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("cen_url.txt","r") #TRIP ADVISOR
+f2=open("cen.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("parad_url.txt","r") #TRIP ADVISOR
+f2=open("parad.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("wild_url.txt","r") #TRIP ADVISOR
+f2=open("wild.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("summ_url.txt","r") #TRIP ADVISOR
+f2=open("summ.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("janar_url.txt","r") #TRIP ADVISOR
+f2=open("janar.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("kedi_url.txt","r") #TRIP ADVISOR
+f2=open("kedi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("sam_url.txt","r") #TRIP ADVISOR
+f2=open("sam.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("valley_url.txt","r") #TRIP ADVISOR
+f2=open("vally.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("swad_url.txt","r") #TRIP ADVISOR
+f2=open("swad.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div", class_="entry")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+######### holiday iq########
+
+f1=open("pooni_url.txt","r") #holiday iq
+f2=open("pooni.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("moti_url.txt","r") #holiday iq
+f2=open("motii.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("deepai_url.txt","r") # holiday iq
+f2=open("deepai.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("oceani_url.txt","r") # holiday iq
+f2=open("oceani.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("presti_url.txt","r") # holiday iq
+f2=open("Presti.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("gatei_url.txt","r") # holiday iq
+f2=open("gatei.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("mangi_url.txt","r") # holiday iq
+f2=open("mangi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("paradi_url.txt","r") # holiday iq
+f2=open("paradi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("wildi_url.txt","r") # holiday iq
+f2=open("wildi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("summi_url.txt","r") # holiday iq
+f2=open("summi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("janari_url.txt","r") # holiday iq
+f2=open("janari.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("kedii_url.txt","r") # holiday iq
+f2=open("kedii.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("sami_url.txt","r")# holiday iq
+f2=open("sami.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("valleyi_url.txt","r") # holiday iq
+f2=open("vallyi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("goldi_url.txt","r") # holiday iq
+f2=open("goldi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("ceni_url.txt","r")# holiday iq
+f2=open("ceni.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("udupii_url.txt","r") # holiday iq
+f2=open("udupii.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("swad_url.txt","r") # holiday iq
+f2=open("swadi.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("div",class_="review_short")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+######## travel guru ########
+
+f1=open("poong_url.txt","r") #TRIP ADVISOR
+f2=open("poonguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("motig_url.txt","r") #TRIP ADVISOR
+f2=open("motiguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("deepag_url.txt","r") #TRIP ADVISOR
+f2=open("deepaguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("goldg_url.txt","r") #TRIP ADVISOR
+f2=open("goldguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("oceang_url.txt","r") #TRIP ADVISOR
+f2=open("oceanguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("prestg_url.txt","r") #TRIP ADVISOR
+f2=open("prestguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("gateg_url.txt","r") #TRIP ADVISOR
+f2=open("gateguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("mangg_url.txt","r") #TRIP ADVISOR
+f2=open("mangguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("paradg_url.txt","r") #TRIP ADVISOR
+f2=open("paradguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("ceng_url.txt","r") #TRIP ADVISOR
+f2=open("cenguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("udupig_url.txt","r") #TRIP ADVISOR
+f2=open("udupiguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("janarg_url.txt","r") #TRIP ADVISOR
+f2=open("janarguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+f1=open("valleyg_url.txt","r") #TRIP ADVISOR
+f2=open("vallyguru.txt","w+")
+for url in f1:
+    soup=BeautifulSoup(urllib2.urlopen(url))
+    soup.prettify()
+    let=soup.find_all("p")
+    #print let
+    s1=str(let)
+    f2.write(s1)
+f2.close()
+f1.close()
+
+######### extras ########
+
+f1=open("poon.txt","r")  #removing extras of trip
+n1=open("poontrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("pooni.txt","r")  #removing extras if IQ
+n1=open("poonIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("poonguru.txt","r")  #guru
+f2=open("poongg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("moti.txt","r")  #removing extras of trip
+n1=open("motitrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("motii.txt","r")  #removing extras if IQ
+n1=open("motiIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("motiguru.txt","r")  #guru
+f2=open("motig.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("deepa.txt","r")  #removing extras of trip
+n1=open("deepatrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("deepai.txt","r")  #removing extras if IQ
+n1=open("deepaIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("deepaguru.txt","r")  #guru
+f2=open("deepag.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("ocean.txt","r")  #removing extras of trip
+n1=open("oceantrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("oceani.txt","r")  #removing extras if IQ
+n1=open("oceanIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("oceanguru.txt","r")  #guru
+f2=open("oceang.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("prest.txt","r")  #removing extras of trip
+n1=open("presttrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("presti.txt","r")  #removing extras if IQ
+n1=open("prestIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("prestguru.txt","r")  #guru
+f2=open("prestg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("gate.txt","r")  #removing extras of trip
+n1=open("gatetrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("gatei.txt","r")  #removing extras if IQ
+n1=open("gateIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("gateguru.txt","r")  #guru
+f2=open("gateg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("mang.txt","r")  #removing extras of trip
+n1=open("mangtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("mangi.txt","r")  #removing extras if IQ
+n1=open("mangIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("mangguru.txt","r")  #guru
+f2=open("mangg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("gold.txt","r")  #removing extras of trip
+n1=open("goldtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("goldi.txt","r")  #removing extras if IQ
+n1=open("goldIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("goldguru.txt","r")  #guru
+f2=open("goldg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("cen.txt","r")  #removing extras of trip
+n1=open("centrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("ceni.txt","r")  #removing extras if IQ
+n1=open("cenIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("cenguru.txt","r")  #guru
+f2=open("ceng.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("udupi.txt","r")  #removing extras of trip
+n1=open("udupitrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("udupii.txt","r")  #removing extras if IQ
+n1=open("udupiIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("udupiguru.txt","r")  #guru
+f2=open("udupig.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("parad.txt","r")  #removing extras of trip
+n1=open("paradtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("paradi.txt","r")  #removing extras if IQ
+n1=open("paradIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("paradguru.txt","r")  #guru
+f2=open("paradg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("wild.txt","r")  #removing extras of trip
+n1=open("wildtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("wildi.txt","r")  #removing extras if IQ
+n1=open("wildIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("summ.txt","r")  #removing extras of trip
+n1=open("summtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("summi.txt","r")  #removing extras if IQ
+n1=open("summIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("janar.txt","r")  #removing extras of trip
+n1=open("janartrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("janari.txt","r")  #removing extras if IQ
+n1=open("janarIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("janarguru.txt","r")  #guru
+f2=open("janarg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("kedi.txt","r")  #removing extras of trip
+n1=open("keditrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("kedii.txt","r")  #removing extras if IQ
+n1=open("kediIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+
+f1=open("sam.txt","r")  #removing extras of trip
+n1=open("samtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("sami.txt","r")  #removing extras if IQ
+n1=open("samIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+
+f1=open("vally.txt","r")  #removing extras of trip
+n1=open("vallytrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("vallyi.txt","r")  #removing extras if IQ
+n1=open("vallyIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("vallyguru.txt","r")  #guru
+f2=open("vallyg.txt","w+")
+for line in f1:
+    mat=re.sub("[.,/;]|(but)|(<p>)|(</p>)",". \n",line)
+    f2.write(mat)
+f2.close()
+f1.close()
+
+f1=open("swad.txt","r")  #removing extras of trip
+n1=open("swadtrip.txt","w+")
+for line in f1:
+    rep=re.sub("<.*","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+f1=open("swadi.txt","r")  #removing extras if IQ
+n1=open("swadIQ.txt","w+")
+for line in f1:
+    rep=re.sub("!(<block.*)","",line)
+    match=re.sub("[.,/<;!]|(but)",". \n",rep)
+    n1.write(match)
+f1.close()
+n1.close()
+
+
+########## foood ########
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(.*drink.*)",re.I)  #regular exp
+f2=open("poontrip.txt","r")
+n2=open("FudPoonja.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(.*drink.*)",re.I)  #regular exp
+f2=open("pooni.txt","r")
+n2=open("FudPoonjaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(.*drink.*)",re.I)  #regular exp
+f2=open("poonguru.txt","r")
+n2=open("FudPoonjaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("motitrip.txt","r")
+n2=open("FudMoti.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("motii.txt","r")
+n2=open("FudMotiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("motiguru.txt","r")
+n2=open("FudMotiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("deepatrip.txt","r")
+n2=open("FudDeepa.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("deepaIQ.txt","r")
+n2=open("FudDeepaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("deepaguru.txt","r")
+n2=open("FudDeepaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("oceantrip.txt","r")
+n2=open("FudOcean.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("oceani.txt","r")
+n2=open("FudOceanIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("oceanguru.txt","r")
+n2=open("FudOceanG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("presttrip.txt","r")
+n2=open("FudPrestige.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("presti.txt","r")
+n2=open("FudPrestigeIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("prestguru.txt","r")
+n2=open("FudPrestigeG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("gatetrip.txt","r")
+n2=open("FudGateway.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("gatei.txt","r")
+n2=open("FudGatewayIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("gateguru.txt","r")
+n2=open("FudGatewayG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("mangtrip.txt","r")
+n2=open("FudMangalore.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("mangi.txt","r")
+n2=open("FudMangaloreIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("mangguru.txt","r")
+n2=open("FudMangaloreG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("paradtrip.txt","r")
+n2=open("FudParadise.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("paradi.txt","r")
+n2=open("FudParadiseIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("paradguru.txt","r")
+n2=open("FudParadiseG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("wildtrip.txt","r")
+n2=open("FudWild.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("wildi.txt","r")
+n2=open("FudWildIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("wildguru.txt","r")
+n2=open("FudWildG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("summtrip.txt","r")
+n2=open("FudSummer.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("summi.txt","r")
+n2=open("FudSummerIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("summguru.txt","r")
+n2=open("FudSummerG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("janartrip.txt","r")
+n2=open("FudJanardhana.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("janari.txt","r")
+n2=open("FudJanardhanaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("janarguru.txt","r")
+n2=open("FudJanardhanaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I))  #regular exp
+f2=open("keditrip.txt","r")
+n2=open("FudKediyooor.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I))  #regular exp
+f2=open("kedii.txt","r")
+n2=open("FudKediyooorIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I))  #regular exp
+f2=open("kediguru.txt","r")
+n2=open("FudKediyooorG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+
+
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I))  #regular exp
+f2=open("samtrip.txt","r")
+n2=open("FudSambhavi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I))  #regular exp
+f2=open("sami.txt","r")
+n2=open("FudSambhaviIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I))  #regular exp
+f2=open("samguru.txt","r")
+n2=open("FudSambhaviG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("vallytrip.txt","r")
+n2=open("FudVally.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("vallyi.txt","r")
+n2=open("FudVallyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("vallyguru.txt","r")
+n2=open("FudVallyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("swadtrip.txt","r")
+n2=open("FudSwadesh.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("swadi.txt","r")
+n2=open("FudSwadeshIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(food.*)|(taste.*)|(fish)|(*drink.*)|(lunch.*)|(breakf.*)|(dinner.*)",re.I)  #regular exp
+f2=open("swadguru.txt","r")
+n2=open("FudSwadeshG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+######### ROOMS ########
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("poontrip.txt","r")
+n2=open("RmPoonja.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("motitrip.txt","r")
+n2=open("RmMoti.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("deepatrip.txt","r")
+n2=open("RmDeepa.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("oceantrip.txt","r")
+n2=open("RmOcean.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("presttrip.txt","r")
+n2=open("RmPrestige.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("gatetrip.txt","r")
+n2=open("RmGateway.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("mangtrip.txt","r")
+n2=open("RmMangalore.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("goldtrip.txt","r")
+n2=open("RmGoldfinch.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("centrip.txt","r")
+n2=open("RmCentury.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("udupitrip.txt","r")
+n2=open("RmUdupi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("paradtrip.txt","r")
+n2=open("RmParadise.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("wildtrip.txt","r")
+n2=open("RmWild.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("summtrip.txt","r")
+n2=open("RmSummer.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("janartrip.txt","r")
+n2=open("RmJanardhana.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("keditrip.txt","r")
+n2=open("RmKediyooor.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("samtrip.txt","r")
+n2=open("RmSambhavi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("vallytrip.txt","r")
+n2=open("RmVally.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("swadtrip.txt","r")
+n2=open("RmSwadesh.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne"
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("poonIQ.txt","r")
+n2=open("RmPoonjaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("poongg.txt","r")
+n2=open("RmPoonjaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("motiIQ.txt","r")
+n2=open("RmMotiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("motig.txt","r")
+n2=open("RmMotiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("deepaIQ.txt","r")
+n2=open("RmDeepaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("deepag.txt","r")
+n2=open("RmDeepaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("oceanIQ.txt","r")
+n2=open("RmOceanIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("oceang.txt","r")
+n2=open("RmOceanG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("prestIQ.txt","r")
+n2=open("RmPrestigeIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("prestg.txt","r")
+n2=open("RmPrestigeG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("gateIQ.txt","r")
+n2=open("RmGatewayIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("gateg.txt","r")
+n2=open("RmGatewayG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("mangIQ.txt","r")
+n2=open("RmMangaloreIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("mangg.txt","r")
+n2=open("RmMangaloreG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("goldIQ.txt","r")
+n2=open("RmGoldfinchIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("goldg.txt","r")
+n2=open("RmGoldfinchG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("cenIQ.txt","r")
+n2=open("RmCenturyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("ceng.txt","r")
+n2=open("RmCenturyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("udupiIQ.txt","r")
+n2=open("RmUdupiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("udupig.txt","r")
+n2=open("RmUdupiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("paradIQ.txt","r")
+n2=open("RmParadiseIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("paradg.txt","r")
+n2=open("RmParadiseG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("wildIQ.txt","r")
+n2=open("RmWildIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("summIQ.txt","r")
+n2=open("RmSummerIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("janarIQ.txt","r")
+n2=open("RmJanardhanaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("janarg.txt","r")
+n2=open("RmJanardhanaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("kediIQ.txt","r")
+n2=open("RmKediyooorIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("samIQ.txt","r")
+n2=open("RmSambhaviIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("vallyIQ.txt","r")
+n2=open("RmVallyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("vallyg.txt","r")
+n2=open("RmVallyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(room.*)|(stay.*)|(bed.*)|(blanket.*)|(water.*)|(smell.*)",re.I)  #regular exp
+f2=open("swadIQ.txt","r")
+n2=open("RmSwadeshIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne ROOMS"
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("poontrip.txt","r")
+n2=open("SerPoonja.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("motitrip.txt","r")
+n2=open("SeMooti.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("deepatrip.txt","r")
+n2=open("SerDeepa.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("oceantrip.txt","r")
+n2=open("SerOcean.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("presttrip.txt","r")
+n2=open("SerPrestige.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("gatetrip.txt","r")
+n2=open("SerGateway.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("mangtrip.txt","r")
+n2=open("SerMangalore.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("goldtrip.txt","r")
+n2=open("SerGoldfinch.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("centrip.txt","r")
+n2=open("SerCentury.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("udupitrip.txt","r")
+n2=open("SerUdupi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("paradtrip.txt","r")
+n2=open("SerParadise.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("wildtrip.txt","r")
+n2=open("SerWild.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("summtrip.txt","r")
+n2=open("SerSummer.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("janartrip.txt","r")
+n2=open("SerJanardhana.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("keditrip.txt","r")
+n2=open("SerKediyooor.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("samtrip.txt","r")
+n2=open("SerSambhavi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("vallytrip.txt","r")
+n2=open("SerVally.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("swadtrip.txt","r")
+n2=open("SerSwadesh.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne"
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("poonIQ.txt","r")
+n2=open("SerPoonjaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("poongg.txt","r")
+n2=open("SerPoonjaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("motiIQ.txt","r")
+n2=open("SerMotiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("motig.txt","r")
+n2=open("SerMotiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("deepaIQ.txt","r")
+n2=open("SerDeepaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("deepag.txt","r")
+n2=open("SerDeepaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("oceanIQ.txt","r")
+n2=open("SerOceanIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("oceang.txt","r")
+n2=open("SerOceanG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("prestIQ.txt","r")
+n2=open("SerPrestigeIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("prestg.txt","r")
+n2=open("SerPrestigeG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("gateIQ.txt","r")
+n2=open("SerGatewayIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("gateg.txt","r")
+n2=open("SerGatewayG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("mangIQ.txt","r")
+n2=open("SerMangaloreIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("mangg.txt","r")
+n2=open("SerMangaloreG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("goldIQ.txt","r")
+n2=open("SerGoldfinchIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("goldg.txt","r")
+n2=open("SerGoldfinchG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("cenIQ.txt","r")
+n2=open("SerCenturyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("ceng.txt","r")
+n2=open("SerCenturyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("udupiIQ.txt","r")
+n2=open("SerUdupiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("udupig.txt","r")
+n2=open("SerUdupiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("paradIQ.txt","r")
+n2=open("SerParadiseIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("paradg.txt","r")
+n2=open("SerParadiseG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("wildIQ.txt","r")
+n2=open("SerWildIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("summIQ.txt","r")
+n2=open("SerSummerIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("janarIQ.txt","r")
+n2=open("SerJanardhanaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("janarg.txt","r")
+n2=open("SerJanardhanaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("kediIQ.txt","r")
+n2=open("SerKediyooorIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("samIQ.txt","r")
+n2=open("SerSambhaviIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("vallyIQ.txt","r")
+n2=open("SerVallyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("vallyg.txt","r")
+n2=open("SerVallyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(staff.*)|(service.*)|(hospitality.*)|(desk.*)|(manager.*)",re.I)  #regular exp
+f2=open("swadIQ.txt","r")
+n2=open("SerSwadeshIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne SERVICE"
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("poontrip.txt","r")
+n2=open("PrcPoonja.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("motitrip.txt","r")
+n2=open("PrcMooti.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("deepatrip.txt","r")
+n2=open("PrcDeepa.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("oceantrip.txt","r")
+n2=open("PrcOcean.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("presttrip.txt","r")
+n2=open("PrcPrestige.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("gatetrip.txt","r")
+n2=open("PrcGateway.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("mangtrip.txt","r")
+n2=open("PrcMangalore.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("goldtrip.txt","r")
+n2=open("PrcGoldfinch.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("centrip.txt","r")
+n2=open("PrcCentury.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("udupitrip.txt","r")
+n2=open("PrcUdupi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("paradtrip.txt","r")
+n2=open("PrcParadise.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("wildtrip.txt","r")
+n2=open("PrcWild.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("summtrip.txt","r")
+n2=open("PrcSummer.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("janartrip.txt","r")
+n2=open("PrcJanardhana.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("keditrip.txt","r")
+n2=open("PrcKediyooor.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("samtrip.txt","r")
+n2=open("PrcSambhavi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("vallytrip.txt","r")
+n2=open("PrcVally.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("swadtrip.txt","r")
+n2=open("PrcSwadesh.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne"
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("poonIQ.txt","r")
+n2=open("PrcPoonjaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("poongg.txt","r")
+n2=open("PrcPoonjaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("motiIQ.txt","r")
+n2=open("PrcMotiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("motig.txt","r")
+n2=open("PrcMotiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("deepaIQ.txt","r")
+n2=open("PrcDeepaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("deepag.txt","r")
+n2=open("PrcDeepaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("oceanIQ.txt","r")
+n2=open("PrcOceanIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("oceang.txt","r")
+n2=open("PrcOceanG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("prestIQ.txt","r")
+n2=open("PrcPrestigeIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("prestg.txt","r")
+n2=open("PrcPrestigeG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("gateIQ.txt","r")
+n2=open("PrcGatewayIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("gateg.txt","r")
+n2=open("PrcGatewayG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("mangIQ.txt","r")
+n2=open("PrcMangaloreIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("mangg.txt","r")
+n2=open("PrcMangaloreG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("goldIQ.txt","r")
+n2=open("PrcGoldfinchIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("goldg.txt","r")
+n2=open("PrcGoldfinchG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("cenIQ.txt","r")
+n2=open("PrcCenturyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("ceng.txt","r")
+n2=open("PrcCenturyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("udupiIQ.txt","r")
+n2=open("PrcUdupiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("udupig.txt","r")
+n2=open("PrcUdupiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("paradIQ.txt","r")
+n2=open("PrcParadiseIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("paradg.txt","r")
+n2=open("PrcParadiseG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("wildIQ.txt","r")
+n2=open("PrcWildIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("summIQ.txt","r")
+n2=open("PrcSummerIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("janarIQ.txt","r")
+n2=open("PrcJanardhanaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("janarg.txt","r")
+n2=open("PrcJanardhanaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("kediIQ.txt","r")
+n2=open("PrcKediyooorIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("samIQ.txt","r")
+n2=open("PrcSambhaviIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("vallyIQ.txt","r")
+n2=open("PrcVallyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("vallyg.txt","r")
+n2=open("PrcVallyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(price.*)|(cost.*)|(expens.*)",re.I)  #regular exp
+f2=open("swadIQ.txt","r")
+n2=open("PrcSwadeshIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne PRICE"
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("poontrip.txt","r")
+n2=open("EnvPoonja.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("motitrip.txt","r")
+n2=open("EnvMooti.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("deepatrip.txt","r")
+n2=open("EnvDeepa.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("oceantrip.txt","r")
+n2=open("EnvOcean.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("presttrip.txt","r")
+n2=open("EnvPrestige.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("gatetrip.txt","r")
+n2=open("EnvGateway.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("mangtrip.txt","r")
+n2=open("EnvMangalore.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("goldtrip.txt","r")
+n2=open("EnvGoldfinch.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("centrip.txt","r")
+n2=open("EnvCentury.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("udupitrip.txt","r")
+n2=open("EnvUdupi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("paradtrip.txt","r")
+n2=open("EnvParadise.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("wildtrip.txt","r")
+n2=open("EnvWild.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("summtrip.txt","r")
+n2=open("EnvSummer.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("janartrip.txt","r")
+n2=open("EnvJanardhana.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("keditrip.txt","r")
+n2=open("EnvKediyooor.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("samtrip.txt","r")
+n2=open("EnvSambhavi.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("vallytrip.txt","r")
+n2=open("EnvVally.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("swadtrip.txt","r")
+n2=open("EnvSwadesh.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne"
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("poonIQ.txt","r")
+n2=open("EnvPoonjaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("poongg.txt","r")
+n2=open("EvnPoonjaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("motiIQ.txt","r")
+n2=open("EvnMotiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("motig.txt","r")
+n2=open("EvnMotiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("deepaIQ.txt","r")
+n2=open("EvnDeepaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("deepag.txt","r")
+n2=open("EvnDeepaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("oceanIQ.txt","r")
+n2=open("EvnOceanIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("oceang.txt","r")
+n2=open("EvnOceanG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("prestIQ.txt","r")
+n2=open("EvnPrestigeIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("prestg.txt","r")
+n2=open("EvnPrestigeG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("gateIQ.txt","r")
+n2=open("EvnGatewayIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("gateg.txt","r")
+n2=open("EvnGatewayG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("mangIQ.txt","r")
+n2=open("EvnMangaloreIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("mangg.txt","r")
+n2=open("EvnMangaloreG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("goldIQ.txt","r")
+n2=open("EvnGoldfinchIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("goldg.txt","r")
+n2=open("EvnGoldfinchG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("cenIQ.txt","r")
+n2=open("EvnCenturyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("ceng.txt","r")
+n2=open("EvnCenturyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("udupiIQ.txt","r")
+n2=open("EvnUdupiIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("udupig.txt","r")
+n2=open("EvnUdupiG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("paradIQ.txt","r")
+n2=open("EvnParadiseIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("paradg.txt","r")
+n2=open("EvnParadiseG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("wildIQ.txt","r")
+n2=open("EvnWildIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("summIQ.txt","r")
+n2=open("EvnSummerIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("janarIQ.txt","r")
+n2=open("EvnJanardhanaIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("janarg.txt","r")
+n2=open("EvnJanardhanaG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("kediIQ.txt","r")
+n2=open("EvnKediyooorIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("samIQ.txt","r")
+n2=open("EvnSambhaviIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("vallyIQ.txt","r")
+n2=open("EvnVallyIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("vallyg.txt","r")
+n2=open("EvnVallyG.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+
+pattern=re.compile("(enviro.*)|(surround.*)|(place.*)|(beach.*)",re.I)  #regular exp
+f2=open("swadIQ.txt","r")
+n2=open("EvnSwadeshIQ.txt","w+")
+for line in f2:
+    #print line
+    #line=line.strip()
+    if re.search(pattern,line):
+        n2.write(line)
+n2.close()
+f2.close()
+print "dne ENVI"
