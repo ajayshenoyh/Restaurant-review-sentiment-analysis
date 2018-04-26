@@ -1,4 +1,8 @@
 # Restaurant-review-sentiment-analysis
+Using PyYAML, BEAUTIFULSOUP, NLTK 3 we add POS tagging to reviews and visually display the results
+
+
+# Installation steps
 
 ____1) Install WAMP
 
