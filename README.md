@@ -1,4 +1,12 @@
 # Restaurant-review-sentiment-analysis
+• Important and useful information can be extracted from reviews through opinion mining and summarization process. <br />
+• Technologies used:<br />
+          •Back-end: Python 2.7<br />
+          •Front-end: JavaScript, HTML5, CSS3<br />
+          •Libraries: NLTK 3, PyYAML, beautifulsoup4<br />
+          •Database: MySQL<br />
+          •APIs: Google Maps, Yelp, TripAdvisor<br />
+
 Using PyYAML, BEAUTIFULSOUP, NLTK 3 we add POS tagging to reviews and visually display the results
 
 
